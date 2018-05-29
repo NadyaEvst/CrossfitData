@@ -11,7 +11,7 @@ public class CSVFile {
     {
         try
             {
-            BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(fileName), "UTF-8"));
+                BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("outputCSV\\" + fileName), "UTF-8"));
             StringBuffer tittles = new StringBuffer();
             tittles.append("CompetitorId");
             tittles.append(CSV_SEPARATOR);
