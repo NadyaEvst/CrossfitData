@@ -1,0 +1,25 @@
+group 'build'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+compileJava {
+    options.encoding = 'UTF-8'
+    options.debug = true
+}
+compileTestJava {
+    options.encoding = 'UTF-8'
+    options.debug = true
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'commons-httpclient:commons-httpclient:3.1',
+            'com.fasterxml.jackson.core:jackson-databind:2.9.4',
+            'org.jsoup:jsoup:1.11.3'
+
+    testCompile 'org.testng:testng:6.9.10'
+}
