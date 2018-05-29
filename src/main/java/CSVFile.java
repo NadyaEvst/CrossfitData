@@ -6,6 +6,22 @@ import java.util.HashMap;
  * Created by Надежда on 23.05.2018.
  */
 public class CSVFile {
+    private static final HashMap<String, String> regionNameById;
+
+    static {
+        regionNameById = new HashMap<>();
+        regionNameById.put("21", "East");
+        regionNameById.put("22", "Europe");
+        regionNameById.put("23", "South");
+        regionNameById.put("24", "Central");
+        regionNameById.put("25", "West");
+        regionNameById.put("26", "Latin America");
+        regionNameById.put("27", "Atlantic");
+        regionNameById.put("28", "Meridian");
+        regionNameById.put("29", "Pacific");
+        regionNameById.put("32", "All");
+    }
+
     private static final String CSV_SEPARATOR = ";";
     public static void writeToCSV(ArrayList<Athlete> athletes, HashMap<String,BenchMarkStats> stats, String fileName)
     {
@@ -29,6 +45,8 @@ public class CSVFile {
             tittles.append(CSV_SEPARATOR);
             tittles.append("RegionId");
             tittles.append(CSV_SEPARATOR);
+                tittles.append("RegionalName");
+                tittles.append(CSV_SEPARATOR);
             tittles.append("Profession");
             tittles.append(CSV_SEPARATOR);
             tittles.append("Height_cm");
@@ -98,6 +116,8 @@ public class CSVFile {
                 oneLine.append(athlete.getCountryCode());
                 oneLine.append(CSV_SEPARATOR);
                 oneLine.append(athlete.getRegionId());
+                oneLine.append(CSV_SEPARATOR);
+                oneLine.append(regionNameById.get(athlete.getRegionId()));
                 oneLine.append(CSV_SEPARATOR);
                 oneLine.append(athlete.getProfession());
                 oneLine.append(CSV_SEPARATOR);

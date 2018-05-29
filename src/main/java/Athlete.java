@@ -4,6 +4,7 @@
 public class Athlete {
     private String countryCode;
     private String regionId;
+    private String regionalName;
     private String profession;
     private String height;
     private String affiliateId;
@@ -226,4 +227,5 @@ public class Athlete {
         }
         return out;
     }
+
 }
