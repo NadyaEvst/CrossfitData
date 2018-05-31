@@ -10,14 +10,20 @@ import java.util.HashMap;
  */
 public class Main {
     public static void main(String[] args) throws IOException, SAXException, ParserConfigurationException {
-        String menLBurl = "https://games.crossfit.com/competitions/api/v1/competitions/regionals/2018/leaderboards?division=1&regional=22&sort=0&page=1";
-        createCSVLeaderBoardbyURL(menLBurl,"athletesMen.csv");
+        String menLBurl22 = "https://games.crossfit.com/competitions/api/v1/competitions/regionals/2018/leaderboards?division=1&regional=22&sort=0&page=1";
+        createCSVLeaderBoardbyURL(menLBurl22, "athletesMenEuropeReg.csv");
 
-        String womenLBurl = "https://games.crossfit.com/competitions/api/v1/competitions/regionals/2018/leaderboards?division=2&regional=22&sort=0&page=1";
-        createCSVLeaderBoardbyURL(womenLBurl,"athletesWomen.csv");
+        String womenLBurl22 = "https://games.crossfit.com/competitions/api/v1/competitions/regionals/2018/leaderboards?division=2&regional=22&sort=0&page=1";
+        createCSVLeaderBoardbyURL(womenLBurl22, "athletesWomenEuropeReg.csv");
 
-        String teamsLBurl = "https://games.crossfit.com/competitions/api/v1/competitions/regionals/2018/leaderboards?division=11&regional=22&sort=0&page=1";
-        createCSVLeaderBoardbyURL(teamsLBurl,"athletesTeams.csv");
+        String teamsLBurl22 = "https://games.crossfit.com/competitions/api/v1/competitions/regionals/2018/leaderboards?division=11&regional=22&sort=0&page=1";
+        createCSVLeaderBoardbyURL(teamsLBurl22, "athletesTeamsEuropeReg.csv");
+
+        String menLBurl = "https://games.crossfit.com/competitions/api/v1/competitions/regionals/2018/leaderboards?division=1&regional=32&sort=0&page=1";
+        createCSVLeaderBoardbyURL(menLBurl, "athletesMenAll.csv");
+
+        String womenLBurl = "https://games.crossfit.com/competitions/api/v1/competitions/regionals/2018/leaderboards?division=2&regional=32&sort=0&page=1";
+        createCSVLeaderBoardbyURL(womenLBurl, "athletesWomenAll.csv");
     }
 
     public static void createCSVLeaderBoardbyURL(String url, String fileName){

@@ -1,0 +1,359 @@
+CompetitorId;CompetitorName;FirstName;LastName;Gender;Age;CountryCode;RegionId;RegionalName;Profession;Height_cm;Weight_kg;AffiliateId;AffiliateName;DivisionId;RegionName;RegionCode;RegionalCode;Status;TeamCaptain;CountryOfOriginCode;BackSquat_kg;CleanAndJerk_kg;Snatch_kg;DeadLift_kg;FightGoneBad;MaxPullUps;Fran;Grace;Helen;Filthy50;Sprint400m;Rn5k
+55121;Katrin Tanja Davidsdottir;Katrin Tanja;Davidsdottir;F;25;US;32;All;0;169;68.0388;null;null;02;North East;North East;North East;ACT;0;US;120.20188;102.0582;87.08966;142.88148;454;--;2:18;1:28;9:16;--;1:05;--
+18588;Annie Thorisdottir;Annie;Thorisdottir;F;28;IS;32;All;0;170;68.945984;null;null;02;Europe North;Europe North;Europe North;ACT;0;IS;125;108;92;170;460;80;2:37;1:20;--;15:07;107:00;--
+305891;Kari Pearce;Kari;Pearce;F;29;US;32;All;0;157.93999;63.04929;null;null;02;North East;North East;North East;ACT;0;US;140.61353;97.06869;83.91452;165.56108;--;--;--;--;--;--;--;--
+591912;Laura Horvath;Laura;Horvath;F;21;HU;32;All;0;169;69;null;null;02;Europe North;Europe North;Europe North;ACT;0;HU;--;--;--;--;--;--;--;--;--;--;--;--
+103389;Carol-Ann Reason-Thibault;Carol-Ann;Reason-Thibault;F;30;CA;32;All;0;165;63.50288;null;null;02;Canada East;Canada East;Canada East;ACT;0;CA;--;--;--;--;--;56;2:41;1:25;--;--;--;22:00
+168305;Brooke Wells;Brooke;Wells;F;23;US;32;All;0;160.93999;68.0388;null;null;02;North Central;North Central;North Central;ACT;0;US;156.48924;115.66596;97.52228;192.7766;--;--;2:06;1:13;--;--;--;--
+120480;Kristin Holte;Kristin;Holte;F;32;NO;32;All;0;162;59.874146;null;null;02;Europe North;Europe North;Europe North;ACT;0;NO;132;102;79;143;406;42;2:24;1:55;--;18:16;1:01;19:30
+8859;Ragnheiður Sara Sigmundsdottir;Ragnheiður Sara;Sigmundsdottir;F;25;IS;32;All;0;171;69;null;null;02;Europe North;Europe North;Europe North;ACT;0;IS;135;110;90;155;--;36;--;2:03;9:26;--;--;22:32
+180250;Emily Abbott;Emily;Abbott;F;29;US;32;All;0;161.93999;71.21394;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;--;108.86208;86.18248;--;--;--;--;--;--;--;--;--
+310687;Kristi Eramo;Kristi;Eramo;F;29;US;32;All;0;156.93999;58.059776;null;null;02;Central East;Central East;Central East;ACT;0;US;136.0776;102.0582;79.3786;151.95332;--;--;2:29;1:47;--;--;--;--
+37537;Alessandra Pichelli;Alessandra;Pichelli;F;32;US;32;All;0;160.93999;70.30676;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;145.14944;111.13004;95.25432;181.4368;457;--;2:11;1:21;7:26;15:34;--;20:41
+174547;Amanda Barnhart;Amanda;Barnhart;F;26;US;32;All;0;161.93999;68.49239;null;null;02;Central East;Central East;Central East;ACT;0;US;142.88148;104.326164;88.45044;176.90088;--;--;2:25;1:30;--;--;--;--
+2088;Camilla Salomonsson Hellman;Camilla;Salomonsson Hellman;F;27;SE;32;All;0;165;67.585205;null;null;02;Europe North;Europe North;Europe North;ACT;0;SE;143;100;77;160;--;--;2:45;1:20;--;--;--;--
+901899;Ehea Schuerch;Ehea;Schuerch;F;29;US;32;All;0;161.93999;72.57472;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;151.95332;106.594124;86.18248;181.4368;--;--;2:29;1:19;--;19:55;--;--
+27975;Chyna Cho;Chyna;Cho;F;31;US;32;All;0;162.93999;65.77084;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;129.72731;94.80073;77.11064;142.88148;--;50;2:17;2:00;--;--;--;--
+3200;Dani Horan;Dani;Horan;F;30;US;32;All;0;160.93999;67.131615;null;null;02;North East;North East;North East;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+16973;Carleen Mathews;Carleen;Mathews;F;34;US;32;All;0;156.93999;56.699;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;138.34557;97.52228;74.84268;174.63292;344;48;3:08;2:20;--;26:00;1:21;22:54
+8015;Rebecca Voigt;Rebecca;Voigt;F;37;US;32;All;0;163.93999;70.30676;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;120.20188;99.79024;79.3786;179.16884;412;31;1:58;1:54;8:07;24:12;1:30;22:25
+764556;Gabriela Migała;Gabriela;Migała;F;19;PL;32;All;0;170;70;null;null;02;Europe North;Europe North;Europe North;ACT;0;PL;143;105;83;155;--;--;--;--;--;--;--;--
+148485;Meredith Root;Meredith;Root;F;30;CA;32;All;0;158.93999;60.327736;null;null;02;Canada West;Canada West;Canada West;ACT;0;CA;129.27373;99.79024;86.18248;154.22128;--;44;2:11;1:35;7:08;--;1:04;20:21
+698210;Karin Freyová;Karin;Freyová;F;23;SK;32;All;0;170;74;null;null;02;Europe North;Europe North;Europe North;ACT;0;SK;125;105;90;160;--;--;--;--;--;--;--;--
+141620;Alex Parker;Alex;Parker;F;28;CA;32;All;0;160.93999;64.410065;null;null;02;Canada West;Canada West;Canada West;ACT;0;CA;124.7378;97.52228;79.3786;145.14944;348;45;2:25;1:46;7:30;19:19;--;--
+2519;Michele Fumagalli;Michele;Fumagalli;F;30;US;32;All;0;159.93999;70.30676;null;null;02;North Central;North Central;North Central;ACT;0;US;136.0776;102.0582;83.91452;158.7572;--;--;--;--;--;--;--;--
+45491;Jennifer Smith;Jennifer;Smith;F;32;US;32;All;0;160.93999;63.50288;null;null;02;Central East;Central East;Central East;ACT;0;US;129.27373;108.86208;86.18248;167.82904;--;--;--;--;--;--;--;--
+8404;Camille Leblanc-Bazinet;Camille;Leblanc-Bazinet;F;29;US;32;All;0;156.93999;58.96696;null;null;02;South West;South West;South West;ACT;0;US;140.61353;104.326164;86.18248;136.0776;--;80;2:04;1:40;7:20;--;1:20;--
+74426;Chelsea Nicholas;Chelsea;Nicholas;F;30;US;32;All;0;160.93999;68.0388;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;145.14944;106.594124;88.45044;147.4174;--;--;2:38;--;--;--;--;--
+239148;Carolyne Prevost;Carolyne;Prevost;F;28;CA;32;All;0;157.93999;64.863655;null;null;02;Canada East;Canada East;Canada East;ACT;0;CA;140.61353;99.79024;79.3786;181.4368;464;50;2:18;1:20;--;--;--;--
+3678;Margaux Alvarez;Margaux;Alvarez;F;33;US;32;All;0;161.93999;68.945984;null;null;02;South West;South West;South West;ACT;0;US;124.7378;104.326164;86.18248;185.97272;356;45;2:52;1:20;7:58;19:42;--;21:47
+254313;Jessica Griffith;Jessica;Griffith;F;26;US;32;All;0;160.93999;64.863655;null;null;02;North Central;North Central;North Central;ACT;0;US;139.25275;112.037224;88.45044;156.48924;357;57;2:12;--;--;--;1:12;--
+106129;Carrie Dudley;Carrie;Dudley;F;26;US;32;All;0;158.93999;61.68851;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;120.20188;95.25432;83.91452;138.34557;--;--;2:21;--;--;--;--;--
+252100;Casey Campbell;Casey;Campbell;F;32;US;32;All;0;158.93999;65.77084;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;120.20188;99.79024;86.18248;147.4174;--;--;--;--;--;--;--;--
+10760;Kirsten Pedri;Kirsten;Pedri;F;36;US;32;All;0;163.93999;68.0388;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;124.7378;102.0582;83.91452;142.88148;--;38;--;--;--;--;--;--
+235110;Taylor Streid;Taylor;Streid;F;27;US;32;All;0;160.93999;62.595695;null;null;02;North Central;North Central;North Central;ACT;0;US;126.09858;99.79024;83.00734;137.43837;--;--;2:47;1:37;--;23:11;--;23:10
+19501;Thuridur Erla Helgadottir;Thuridur Erla;Helgadottir;F;26;IS;32;All;0;164;59;null;null;02;Europe North;Europe North;Europe North;ACT;0;IS;133;108;86;150;389;60;2:49;1:57;8:32;18:56;1:01;21:26
+160700;Jordan Adcock;Jordan;Adcock;F;26;CA;32;All;0;160.93999;63.50288;null;null;02;Canada West;Canada West;Canada West;ACT;0;CA;140.61353;104.326164;79.3786;154.22128;--;--;2:17;1:36;--;--;--;--
+5785;Brista Mayfield;Brista;Mayfield;F;30;US;32;All;0;156.93999;64.410065;null;null;02;South Central;South Central;South Central;ACT;0;US;124.7378;99.79024;79.3786;156.48924;--;40;2:48;1:51;8:01;--;--;22:11
+239442;Emma McQuaid;Emma;McQuaid;F;28;GB;32;All;0;165;63;null;null;02;Europe Central;Europe Central;Europe Central;ACT;0;GB;125;108;83;160;--;43;2:27;2:12;--;--;--;--
+115892;Meg Reardon;Meg;Reardon;F;26;US;32;All;0;160.93999;68.0388;null;null;02;North East;North East;North East;ACT;0;US;140.61353;97.52228;83.91452;161.02516;--;--;--;--;--;--;1:18;--
+135797;Tennil Beuerlein;Tennil;Beuerlein;F;30;US;32;All;0;160.93999;71.667534;null;null;02;South West;South West;South West;ACT;0;US;133.80965;106.594124;86.18248;161.02516;391;50;2:31;1:32;--;--;--;20:02
+159681;Regan Huckaby;Regan;Huckaby;F;31;US;32;All;0;159.93999;67.131615;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;158.7572;113.398;88.45044;181.4368;--;--;--;--;--;--;--;--
+472971;Emma Chapman;Emma;Chapman;F;30;US;32;All;0;156.93999;58.96696;null;null;02;Central East;Central East;Central East;ACT;0;US;131.54169;100.697426;65.77084;170.097;--;50;--;2:01;8:37;--;1:06;20:47
+236779;Chloe Gauvin-David;Chloe;Gauvin-David;F;26;CA;32;All;0;161.93999;66.224434;null;null;02;Canada East;Canada East;Canada East;ACT;0;CA;115.66596;99.79024;83.91452;136.0776;--;60;2:13;1:46;--;--;--;--
+23405;Kelcy Ware;Kelcy;Ware;F;29;US;32;All;0;158.93999;65.77084;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;140.61353;102.0582;72.57472;147.4174;320;35;2:23;1:24;--;--;--;--
+497688;Kate Kennedy;Kate;Kennedy;F;25;CA;32;All;0;161.93999;72.57472;null;null;02;Canada East;Canada East;Canada East;ACT;0;CA;--;--;--;--;--;--;--;--;--;--;--;--
+116926;Karine Shrum;Karine;Shrum;F;29;CA;32;All;0;172;68.945984;null;null;02;Canada East;Canada East;Canada East;ACT;0;CA;--;--;--;--;--;--;--;--;--;--;--;--
+95635;Bridget Erickson;Bridget;Erickson;F;31;US;32;All;0;155.93999;61.23492;null;null;02;North Central;North Central;North Central;ACT;0;US;131.54169;90.7184;83.91452;142.88148;--;--;4:20;--;8:08;--;--;--
+147562;Lauren Gravatt;Lauren;Gravatt;F;32;US;32;All;0;160.93999;65.77084;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;115.66596;95.25432;79.3786;136.0776;397;--;2:21;1:31;7:28;21:10;--;21:49
+13506;Nicole Holcomb;Nicole;Holcomb;F;31;US;32;All;0;161.93999;68.0388;null;null;02;Central East;Central East;Central East;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+686626;Manon Angonese;Manon;Angonese;F;25;LU;32;All;0;163;66;null;null;02;Europe Central;Europe Central;Europe Central;ACT;0;LU;--;--;--;--;--;--;--;--;--;--;--;--
+592472;Bethany Shadburne;Bethany;Shadburne;F;24;US;32;All;0;158.93999;65.77084;null;null;02;South Central;South Central;South Central;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+132729;Karla Wolford;Karla;Wolford;F;34;US;32;All;0;161.93999;70.30676;null;null;02;North Central;North Central;North Central;ACT;0;US;124.7378;97.52228;79.3786;151.95332;402;--;4:15;1:28;9:48;--;1:12;--
+250568;Kloie Wilson;Kloie;Wilson;F;20;US;32;All;0;161.93999;70.30676;null;null;02;South West;South West;South West;ACT;0;US;129.27373;102.0582;88.45044;138.34557;--;30;--;1:38;--;--;--;21:34
+276523;Amanda Hardeman;Amanda;Hardeman;F;29;US;32;All;0;161.93999;68.0388;null;null;02;Central East;Central East;Central East;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+252900;Anna Fragkou;Anna;Fragkou;F;28;GR;32;All;0;160;63;null;null;02;Europe Central;Europe Central;Europe Central;ACT;0;GR;--;--;--;--;--;--;--;--;--;--;--;--
+18274;Bjork Odinsdottir;Bjork;Odinsdottir;F;30;IS;32;All;0;160;63;null;null;02;Europe North;Europe North;Europe North;ACT;0;IS;143;106;84;150;--;55;2:44;1:48;--;21:29;--;--
+34715;Hayley Murillo;Hayley;Murillo;F;31;US;32;All;0;163.93999;73.93549;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+274725;Nicole Chovan;Nicole;Chovan;F;28;US;32;All;0;159.93999;64.410065;null;null;02;North Central;North Central;North Central;ACT;0;US;136.0776;104.326164;90.7184;140.61353;--;--;--;--;--;--;--;--
+123968;Lindsey Valenzuela;Lindsey;Valenzuela;F;31;US;32;All;0;160.93999;68.0388;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;136.0776;120.20188;90.7184;183.70476;415;40;2:26;1:15;8:14;22:18;1:05;21:03
+5124;Anna Rode;Anna;Rode;F;25;US;32;All;0;158.93999;68.0388;null;null;02;Central East;Central East;Central East;ACT;0;US;111.13004;96.16151;77.11064;136.0776;346;40;2:26;1:58;8:54;20:28;--;--
+245403;Colleen Fotsch;Colleen;Fotsch;F;28;US;32;All;0;162.93999;75.74986;null;null;02;South West;South West;South West;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+255576;Ashleigh Cornell;Ashleigh;Cornell;F;33;US;32;All;0;161.93999;70.30676;null;null;02;North East;North East;North East;ACT;0;US;127.00576;99.79024;77.11064;142.88148;--;--;2:34;2:00;--;--;--;--
+109531;Michelle Kwak;Michelle;Kwak;F;24;US;32;All;0;160.93999;70.30676;null;null;02;North East;North East;North East;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+314703;Caroline Conners;Caroline;Conners;F;25;US;32;All;0;155.93999;60.327736;null;null;02;North East;North East;North East;ACT;0;US;142.88148;97.52228;83.91452;163.29312;--;--;2:46;1:58;--;--;1:20;--
+747027;Kelly Baker;Kelly;Baker;F;26;US;32;All;0;158.93999;65.77084;null;null;02;North East;North East;North East;ACT;0;US;136.0776;106.594124;83.91452;163.29312;--;--;--;--;--;--;--;--
+9328;Tia Wright;Tia;Wright;F;26;US;32;All;0;158.93999;62.595695;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;--;105;82;--;--;--;2:14;1:33;--;--;--;--
+151555;Erin Vandendriessche;Erin;Vandendriessche;F;27;US;32;All;0;161.93999;65.77084;null;null;02;Central East;Central East;Central East;ACT;0;US;120.20188;97.52228;85.72889;129.27373;--;30;5:03;3:00;--;--;--;26:26
+270917;Dorothy Morentin;Dorothy;Morentin;F;26;US;32;All;0;158.93999;70.30676;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;149.68536;106.594124;83.91452;154.22128;--;40;2:37;--;--;--;--;--
+148722;Ashley Ferda;Ashley;Ferda;F;28;US;32;All;0;160.93999;70.30676;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+10614;Whitney Heuser;Whitney;Heuser;F;27;US;32;All;0;158.93999;63.50288;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;129.27373;99.79024;83.91452;142.88148;448;--;2:17;1:36;8:00;16:54;1:07;--
+11708;Amanda Goodman;Amanda;Goodman;F;27;US;32;All;0;154.93999;64.863655;null;null;02;South West;South West;South West;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+280780;Kristine Best;Kristine;Best;F;28;US;32;All;0;157.93999;62.595695;null;null;02;North East;North East;North East;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+126964;Megan Scales;Megan;Scales;F;32;US;32;All;0;163.93999;69.399574;null;null;02;North Central;North Central;North Central;ACT;0;US;136.0776;99.79024;81.64656;154.22128;--;--;--;--;--;--;--;--
+245099;Hilary Steele;Hilary;Steele;F;28;US;32;All;0;134.45999;52.163082;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;108.86208;90.7184;74.84268;129.27373;--;37;2:26;--;10:08;--;--;--
+259202;Marcella Hunnicutt;Marcella;Hunnicutt;F;29;US;32;All;0;156.93999;63.50288;null;null;02;Central East;Central East;Central East;ACT;0;US;127.00576;102.0582;81.64656;151.95332;368;40;2:14;1:24;--;--;1:13;--
+51006;Danielle Miles;Danielle;Miles;F;34;US;32;All;0;162.93999;74.84268;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;138.34557;106.594124;77.11064;151.95332;431;52;2:23;1:25;--;--;--;--
+112949;Claudia Vazquez;Claudia;Vazquez;F;27;US;32;All;0;159.93999;65.77084;null;null;02;North East;North East;North East;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+709102;Chantelle Loehner;Chantelle;Loehner;F;26;US;32;All;0;160.93999;65.77084;null;null;02;Central East;Central East;Central East;ACT;0;US;113.398;81.64656;68.0388;122.46984;--;--;--;--;--;--;--;--
+128857;Jessica Schwartz;Jessica;Schwartz;F;20;US;32;All;0;158.93999;59.874146;null;null;02;North Central;North Central;North Central;ACT;0;US;122.46984;92.98636;79.3786;129.27373;439;--;2:20;--;7:10;--;--;--
+717711;Taylor Ballek;Taylor;Ballek;F;21;US;32;All;0;159.93999;66.678024;null;null;02;North East;North East;North East;ACT;0;US;127.00576;102.0582;90.7184;140.61353;--;--;2:53;1:26;--;--;--;--
+120359;Steph Dekker;Steph;Dekker;F;28;GB;32;All;0;7.54;100;null;null;02;Europe Central;Europe Central;Europe Central;ACT;0;GB;140;93;65;165;--;30;3:00;2:29;--;--;1:07;--
+887297;Emma Tall;Emma;Tall;F;26;SE;32;All;0;168;69;null;null;02;Europe North;Europe North;Europe North;ACT;0;SE;--;--;--;--;--;--;--;--;--;--;--;--
+358711;Desiree Rogers;Desiree;Rogers;F;27;US;32;All;0;160.93999;68.0388;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;127.00576;97.52228;88.45044;133.80965;--;--;--;--;--;--;--;--
+15182;Stephanie Roy;Stephanie;Roy;F;40;CA;32;All;0;165;63.50288;null;null;02;Canada East;Canada East;Canada East;ACT;0;CA;136.0776;106.594124;81.64656;158.7572;--;--;--;--;--;--;--;--
+179838;Keston Mendoza;Keston;Mendoza;F;23;US;32;All;0;159.93999;66.678024;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;122.46984;90.7184;70.30676;133.80965;--;66;2:40;2:17;--;--;--;--
+12336;Kelley Jackson;Kelley;Jackson;F;34;US;32;All;0;156.93999;56.699;null;null;02;North Central;North Central;North Central;ACT;0;US;131.99527;102.0582;79.3786;156.48924;418;61;1:59;1:32;7:44;16:27;1:12;--
+25565;Whitney Elks;Whitney;Elks;F;30;US;32;All;0;162.93999;70.30676;null;null;02;South West;South West;South West;ACT;0;US;145.14944;108.86208;90.7184;181.4368;--;--;--;--;--;--;--;--
+422341;Megan O'Connor;Megan;O'Connor;F;33;US;32;All;0;159.93999;65.77084;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+208293;Alexis Johnson;Alexis;Johnson;F;27;US;32;All;0;156.93999;63.50288;null;null;02;South Central;South Central;South Central;ACT;0;US;127.00576;102.965385;79.3786;155.12846;440;--;--;1:16;7:51;--;1:15;--
+189706;Chelsey Hughes;Chelsey;Hughes;F;32;US;32;All;0;159.93999;61.23492;null;null;02;North East;North East;North East;ACT;0;US;131.54169;105.233345;81.64656;151.95332;452;54;2:14;1:49;--;18:52;1:14;20:19
+169393;Analisa Marquez;Analisa;Marquez;F;29;US;32;All;0;160.93999;68.0388;null;null;02;South West;South West;South West;ACT;0;US;122.46984;92.98636;81.64656;151.95332;397;40;2:21;1:34;7:39;--;0:56;--
+623803;Emelie Lundberg;Emelie;Lundberg;F;28;SE;32;All;0;161;61;null;null;02;Europe North;Europe North;Europe North;ACT;0;SE;130;95;79;150;--;--;2:42;--;--;--;--;--
+9748;Janine Shillington;Janine;Shillington;F;35;CA;32;All;0;160.93999;74.84268;null;null;02;Canada West;Canada West;Canada West;ACT;0;CA;142.88148;102.0582;81.64656;151.95332;--;35;2:40;1:30;9:40;--;1:15;21:20
+38909;Mirakim Couvrette;Mirakim;Couvrette;F;27;CA;32;All;0;157.93999;64.410065;null;null;02;Canada East;Canada East;Canada East;ACT;0;CA;146.05663;106.594124;83.91452;170.097;--;85;2:02;--;--;--;--;--
+611075;Michelle Tremblay-Boulianne;Michelle;Tremblay-Boulianne;F;26;CA;32;All;0;161.93999;72.57472;null;null;02;Canada East;Canada East;Canada East;ACT;0;CA;142.88148;102.0582;77.11064;156.48924;--;28;--;1:40;--;--;--;22:30
+252266;Leah Irons;Leah;Irons;F;26;US;32;All;0;158.93999;65.77084;null;null;02;South Central;South Central;South Central;ACT;0;US;127.00576;104.326164;84.8217;156.48924;--;--;3:50;1:52;10:16;--;--;21:01
+62554;Brooke Ence;Brooke;Ence;F;28;US;32;All;0;161.93999;68.0388;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;145.14944;114.75877;93.89355;165.56108;--;--;2:07;--;--;24:38;1:11;24:00
+238632;Emily Tanner;Emily;Tanner;F;29;US;32;All;0;161.93999;72.57472;null;null;02;South West;South West;South West;ACT;0;US;142.88148;115.66596;95.25432;167.82904;--;--;--;--;--;--;--;--
+881734;Kaitlyn Pavlik;Kaitlyn;Pavlik;F;27;CA;32;All;0;157.93999;68.0388;null;null;02;Canada East;Canada East;Canada East;ACT;0;CA;124.7378;97.52228;72.57472;161.02516;--;--;2:26;--;--;--;--;22:49
+99236;Claire Treanor;Claire;Treanor;F;32;US;32;All;0;159.93999;70.30676;null;null;02;South West;South West;South West;ACT;0;US;136.0776;106.594124;92.98636;149.68536;381;--;2:58;1:33;8:41;19:14;--;--
+821419;Anette Nieminen;Anette;Nieminen;F;26;FI;32;All;0;166;70;null;null;02;Europe North;Europe North;Europe North;ACT;0;FI;--;--;--;--;--;--;--;--;--;--;--;--
+97728;Mikki Nuccio;Mikki;Nuccio;F;28;US;32;All;0;158.93999;67.131615;null;null;02;Central East;Central East;Central East;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+26770;Carlie Stone;Carlie;Stone;F;29;US;32;All;0;158.93999;69.399574;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;131.54169;99.79024;79.3786;181.4368;348;40;2:32;1:37;--;--;1:05;23:47
+107129;Kelly Friel;Kelly;Friel;F;40;GB;32;All;0;170;72;null;null;02;Europe Central;Europe Central;Europe Central;ACT;0;GB;--;--;--;--;--;--;--;--;--;--;--;--
+534813;Sanna Venäläinen;Sanna;Venäläinen;F;27;FI;32;All;0;164;65;null;null;02;Europe North;Europe North;Europe North;ACT;0;FI;--;--;--;--;--;--;--;--;--;--;--;--
+103884;Lauren Conner;Lauren;Conner;F;32;US;32;All;0;161.93999;71.21394;null;null;02;North East;North East;North East;ACT;0;US;140.61353;106.594124;79.3786;154.22128;--;--;0:12;--;--;--;0:56;17:18
+252447;Michela Greco;Michela;Greco;F;25;US;32;All;0;161.93999;67.131615;null;null;02;North East;North East;North East;ACT;0;US;117.93392;97.52228;77.11064;154.22128;--;--;2:53;2:27;7:57;--;--;20:06
+132258;Arielle Armstrong;Arielle;Armstrong;F;24;US;32;All;0;157.93999;63.04929;null;null;02;South Central;South Central;South Central;ACT;0;US;--;97.975876;83.91452;138.34557;--;55;2:15;--;--;--;1:03;--
+485523;Jadzia Truszkowski;Jadzia;Truszkowski;F;30;CA;32;All;0;156.93999;61.23492;null;null;02;Canada East;Canada East;Canada East;ACT;0;CA;145.14944;104.326164;70.30676;170.097;--;--;2:20;--;--;--;--;20:45
+39413;Chelsie Guardado;Chelsie;Guardado;F;28;US;32;All;0;155.93999;59.874146;null;null;02;South West;South West;South West;ACT;0;US;120.20188;95.25432;79.3786;142.88148;321;42;2:32;1:50;8:02;--;1:23;19:40
+448384;Sequoia Barrera;Sequoia;Barrera;F;18;US;32;All;0;162.93999;68.0388;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;120.20188;97.52228;81.64656;142.88148;--;--;--;--;--;--;--;--
+309398;Synne Krokstad;Synne;Krokstad;F;26;NO;32;All;0;168;68;null;null;02;Europe North;Europe North;Europe North;ACT;0;NO;120;95;72;145;398;--;--;2:16;--;17:53;0:59;22:59
+319644;April Payne;April;Payne;F;34;US;32;All;0;161.93999;70.30676;null;null;02;North Central;North Central;North Central;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+344192;Marisa De Los Santos;Marisa;De Los Santos;F;27;US;32;All;0;134.45999;47.62716;null;null;02;South Central;South Central;South Central;ACT;0;US;127.00576;92.98636;74.84268;136.0776;--;80;1:56;--;7:39;--;--;20:19
+245145;Nikki Matarazzo;Nikki;Matarazzo;F;27;CA;32;All;0;152;60.78133;null;null;02;Canada East;Canada East;Canada East;ACT;0;CA;124.7378;92.98636;70.30676;140.61353;330;--;--;1:45;--;--;--;--
+284277;Laura Hughes;Laura;Hughes;F;25;GB;32;All;0;162.93999;72.57472;null;null;02;Europe Central;Europe Central;Europe Central;ACT;0;GB;120;95;75;150;--;--;--;--;--;--;--;--
+298832;Courtney Sims;Courtney;Sims;F;30;US;32;All;0;161.93999;74.38909;null;null;02;North East;North East;North East;ACT;0;US;122.46984;106.594124;90.7184;149.68536;--;--;--;1:24;--;--;--;--
+450474;Siri Rohmesmo;Siri;Rohmesmo;F;27;BE;32;All;0;158;64;null;null;02;Europe Central;Europe Central;Europe Central;ACT;0;BE;115;77;70;145;--;--;4:00;--;--;--;--;28:00
+92635;Becca Merritt;Becca;Merritt;F;21;US;32;All;0;154.93999;57.15259;null;null;02;Central East;Central East;Central East;ACT;0;US;--;97.52228;81.64656;--;--;--;--;--;--;--;--;--
+514514;Charlotte Spence;Charlotte;Spence;F;31;GB;32;All;0;154.93999;66;null;null;02;Europe Central;Europe Central;Europe Central;ACT;0;GB;--;--;--;--;--;--;2:44;--;--;--;1:18;--
+10376;Randi Slusser;Randi;Slusser;F;33;US;32;All;0;160.93999;65.77084;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+452855;Stine Pinilla;Stine;Pinilla;F;31;US;32;All;0;161.93999;70.30676;null;null;02;South West;South West;South West;ACT;0;US;140.61353;104.326164;79.3786;147.4174;--;--;--;--;--;--;--;--
+24137;Caitlin Ritchey;Caitlin;Ritchey;F;30;US;32;All;0;161.93999;65.77084;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+11988;Elizabeth Adams;Elizabeth;Adams;F;31;US;32;All;0;162.93999;70.30676;null;null;02;North East;North East;North East;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+228939;Anastasiya Marino;Anastasiya;Marino;F;32;US;32;All;0;161.93999;65.77084;null;null;02;North East;North East;North East;ACT;0;US;--;--;--;--;--;--;2:29;1:33;9:01;--;1:15;21:46
+109933;Aneta Tucker;Aneta;Tucker;F;34;GB;32;All;0;160;64;null;null;02;Europe Central;Europe Central;Europe Central;ACT;0;GB;132;107;80;135;--;30;3:04;2:33;--;--;1:09;--
+259327;Joey Kimdon;Joey;Kimdon;F;40;US;32;All;0;155.93999;56.699;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;140.61353;90.7184;68.0388;154.22128;383;70;2:24;1:52;7:53;17:46;--;--
+8990;Mandi Newsome;Mandi;Newsome;F;32;US;32;All;0;162.93999;72.12113;null;null;02;North Central;North Central;North Central;ACT;0;US;--;106.594124;88.45044;--;--;--;--;--;--;--;--;--
+13802;Elyse Persico;Elyse;Persico;F;27;US;32;All;0;157.93999;68.49239;null;null;02;North East;North East;North East;ACT;0;US;129.27373;92.98636;79.3786;172.36496;414;67;2:30;1:47;8:41;--;1:10;22:56
+130151;Sarah Viets;Sarah;Viets;F;28;US;32;All;0;164.93999;74.84268;null;null;02;South West;South West;South West;ACT;0;US;125.64498;99.79024;84.36811;139.25275;383;43;2:34;1:42;8:28;28:48;1:03;21:35
+933927;Kambri Hill;Kambri;Hill;F;24;US;32;All;0;158.93999;65.77084;null;null;02;North Central;North Central;North Central;ACT;0;US;131.54169;102.0582;83.91452;165.56108;--;--;2:22;--;--;--;--;--
+294332;Brittany Chestnut;Brittany;Chestnut;F;26;US;32;All;0;157.93999;56.245407;null;null;02;South Central;South Central;South Central;ACT;0;US;--;96;81;145;--;--;--;--;--;--;--;--
+729434;Martyna Krysiak;Martyna;Krysiak;F;28;PL;32;All;0;163;60;null;null;02;Europe North;Europe North;Europe North;ACT;0;PL;--;--;--;--;--;--;--;--;--;--;--;--
+132956;Pascale Leblanc;Pascale;Leblanc;F;30;CA;32;All;0;161.93999;63.04929;null;null;02;Canada East;Canada East;Canada East;ACT;0;CA;115.66596;90.7184;74.84268;124.7378;--;--;--;--;--;--;--;--
+881902;Amber Perron;Amber;Perron;F;27;CA;32;All;0;165;67.131615;null;null;02;Canada East;Canada East;Canada East;ACT;0;CA;--;95.25432;77.11064;--;--;--;--;--;--;--;--;--
+248645;Jayne Eadie;Jayne;Eadie;F;29;GB;32;All;0;170;66;null;null;02;Europe Central;Europe Central;Europe Central;ACT;0;GB;--;--;--;--;--;--;--;--;--;--;--;--
+552309;Taylor Rector;Taylor;Rector;F;25;US;32;All;0;158.93999;66.224434;null;null;02;North Central;North Central;North Central;ACT;0;US;--;92.98636;65.77084;149.68536;--;--;2:28;--;--;--;--;--
+21024;Courtney Walker;Courtney;Walker;F;33;US;32;All;0;156.93999;58.059776;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;131.54169;103.418976;83.91452;140.61353;--;--;--;--;--;--;--;--
+100842;Madeline Senkosky;Madeline;Senkosky;F;32;US;32;All;0;157.93999;65.77084;null;null;02;North East;North East;North East;ACT;0;US;142.88148;102.0582;81.64656;147.4174;--;--;--;--;--;--;--;--
+513420;MaryKay Dreisilker;MaryKay;Dreisilker;F;28;US;32;All;0;157.93999;64.410065;null;null;02;North Central;North Central;North Central;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+475514;Margaret Mullen;Margaret;Mullen;F;26;US;32;All;0;159.93999;68.0388;null;null;02;South Central;South Central;South Central;ACT;0;US;117.93392;102.0582;81.64656;179.16884;--;--;--;1:26;--;--;1:09;--
+2932;Sarah Mitzel;Sarah;Mitzel;F;31;US;32;All;0;159.93999;63.95647;null;null;02;North East;North East;North East;ACT;0;US;170.097;106.594124;79.3786;182.34398;--;75;2:11;--;--;--;--;20:40
+196859;Leigha Dean;Leigha;Dean;F;26;CA;32;All;0;161;62.142105;null;null;02;Canada East;Canada East;Canada East;ACT;0;CA;117.93392;95.25432;79.3786;133.80965;--;50;2:19;1:37;9:00;17:55;1:00;19:53
+115567;Janelle Shafer;Janelle;Shafer;F;24;US;32;All;0;157.93999;63.50288;null;null;02;North Central;North Central;North Central;ACT;0;US;140.61353;114.75877;93.89355;145.14944;--;58;2:08;--;--;--;--;--
+238376;Taylor Knisely;Taylor;Knisely;F;25;US;32;All;0;160.93999;68.0388;null;null;02;Central East;Central East;Central East;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+2813;Ashley Werner;Ashley;Werner;F;31;CA;32;All;0;157.93999;65.77084;null;null;02;Canada East;Canada East;Canada East;ACT;0;CA;158.7572;104.326164;83.91452;165.56108;--;60;2:09;1:50;--;--;1:05;20:08
+540592;Taylor Hill;Taylor;Hill;F;23;US;32;All;0;2.54;0 lb;null;null;02;South West;South West;South West;ACT;0;US;113.398;92.98636;83.91452;142.88148;414;40;2:45;1:58;9:04;23:08;1:16;25:54
+126590;Lacy Baumgart;Lacy;Baumgart;F;31;US;32;All;0;157.93999;61.23492;null;null;02;Central East;Central East;Central East;ACT;0;US;117.93392;97.52228;74.84268;147.4174;--;--;--;--;--;--;--;--
+881284;Fédra Szakolczai;Fédra;Szakolczai;F;28;HU;32;All;0;169;75;null;null;02;Europe North;Europe North;Europe North;ACT;0;HU;135;105;--;141;--;--;2:35;2:15;--;--;--;--
+7419;Laura Faulkner;Laura;Faulkner;F;26;GB;32;All;0;152;56;null;null;02;Europe Central;Europe Central;Europe Central;ACT;0;GB;120;95;73;150;--;--;--;--;--;--;--;--
+43782;Meaghan Gonzalez;Meaghan;Gonzalez;F;33;US;32;All;0;158.93999;67.585205;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;147.4174;106.594124;79.3786;158.7572;--;--;2:24;--;--;--;--;21:30
+112252;Rachel Goldenberg;Rachel;Goldenberg;F;28;US;32;All;0;156.93999;56.245407;null;null;02;North East;North East;North East;ACT;0;US;124.7378;99.79024;79.3786;149.68536;--;--;2:13;2:02;--;16:56;1:16;--
+201356;Rachel Escolas;Rachel;Escolas;F;28;US;32;All;0;159.93999;68.945984;null;null;02;Central East;Central East;Central East;ACT;0;US;138.34557;102.0582;81.64656;152.4069;236;--;--;--;--;--;--;--
+129970;Abby Graham;Abby;Graham;F;29;US;32;All;0;159.93999;65.77084;null;null;02;North East;North East;North East;ACT;0;US;117.93392;95.25432;77.11064;138.34557;--;--;--;--;--;--;--;--
+657479;Nathalie Geurts;Nathalie;Geurts;F;34;BE;32;All;0;160;67;null;null;02;Europe Central;Europe Central;Europe Central;ACT;0;BE;--;--;--;--;--;--;--;--;--;--;--;--
+709355;Maria Kurzawa;Maria;Kurzawa;F;26;PL;32;All;0;171;69;null;null;02;Europe North;Europe North;Europe North;ACT;0;PL;--;--;--;--;--;--;--;--;--;--;--;--
+240072;Lisa Lettner;Lisa;Lettner;F;27;AT;32;All;0;162;61.68851;null;null;02;Europe Central;Europe Central;Europe Central;ACT;0;AT;--;--;--;--;--;--;--;--;--;--;--;23:43
+12611;Chely Galvan;Chely;Galvan;F;28;US;32;All;0;159.93999;61.23492;null;null;02;South Central;South Central;South Central;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+252691;Feeroozeh Saghafi;Feeroozeh;Saghafi;F;23;US;32;All;0;156.93999;57.606186;null;null;02;Central East;Central East;Central East;ACT;0;US;122.46984;81.64656;70.30676;138.34557;332;--;2:26;--;--;--;1:20;25:30
+114958;Hanne Nilsen;Hanne;Nilsen;F;30;NO;32;All;0;170;0 lb;null;null;02;Europe North;Europe North;Europe North;ACT;0;NO;115;97;75;160;--;--;2:34;1:57;--;--;--;--
+233098;Alyssa Christian;Alyssa;Christian;F;30;US;32;All;0;158.93999;63.50288;null;null;02;South Central;South Central;South Central;ACT;0;US;145.14944;107.047714;88.90403;154.22128;--;60;1:58;1:21;8:06;--;--;21:00
+139298;Briana Gaipa;Briana;Gaipa;F;33;US;32;All;0;160.93999;65.77084;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;120.20188;99.79024;79.3786;140.61353;--;40;2:39;2:11;9:59;--;--;--
+26014;Sheena Hammer;Sheena;Hammer;F;34;US;32;All;0;155.93999;53.523857;null;null;02;South West;South West;South West;ACT;0;US;120.20188;90.7184;70.30676;136.0776;--;55;2:08;--;7:47;17:55;--;21:37
+26745;Jolene Quirke;Jolene;Quirke;F;34;US;32;All;0;154.93999;53.070263;null;null;02;Central East;Central East;Central East;ACT;0;US;111.13004;90.7184;71.21394;131.54169;--;--;2:11;1:45;--;--;--;--
+271176;April Bullock;April;Bullock;F;26;US;32;All;0;159.93999;65.77084;null;null;02;South Central;South Central;South Central;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+108408;Delaina Snider;Delaina;Snider;F;37;CA;32;All;0;160.93999;69.853165;null;null;02;Canada West;Canada West;Canada West;ACT;0;CA;127.00576;99.79024;79.3786;161.02516;419;40;2:40;1:22;8:31;--;1:07;21:38
+37815;Kelly Wilhide;Kelly;Wilhide;F;20;US;32;All;0;156.93999;58.96696;null;null;02;North East;North East;North East;ACT;0;US;124.7378;99.79024;74.84268;133.80965;--;--;--;--;--;--;--;--
+467556;Alyssa Lafont;Alyssa;Lafont;F;24;US;32;All;0;160.93999;70.76035;null;null;02;South Central;South Central;South Central;ACT;0;US;145.14944;102.0582;86.18248;181.4368;--;--;2:27;1:15;--;--;--;--
+338296;Janie Garratt;Janie;Garratt;F;25;GB;32;All;0;158;63;null;null;02;Europe Central;Europe Central;Europe Central;ACT;0;GB;140;90;77;64.410065;--;--;2:48;--;--;--;--;--
+318830;Lauren Weeks;Lauren;Weeks;F;28;US;32;All;0;158.93999;62.142105;null;null;02;South West;South West;South West;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+97361;Danielle Resha;Danielle;Resha;F;25;US;32;All;0;158.93999;65.77084;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+527207;Celene Steele;Celene;Steele;F;22;US;32;All;0;162.93999;65.77084;null;null;02;Central East;Central East;Central East;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+3816;Megan Benzik;Megan;Benzik;F;28;US;32;All;0;161.93999;68.0388;null;null;02;South West;South West;South West;ACT;0;US;136.0776;92.98636;77.11064;147.4174;--;--;--;--;--;--;--;--
+249007;Adele Willis;Adele;Willis;F;26;US;32;All;0;156.93999;58.96696;null;null;02;Central East;Central East;Central East;ACT;0;US;124.7378;90.7184;77.11064;142.88148;--;--;2:45;--;--;--;--;--
+226534;Amanda Garces;Amanda;Garces;F;27;US;32;All;0;155.93999;63.50288;null;null;02;South Central;South Central;South Central;ACT;0;US;--;95.25432;70.30676;161.02516;--;--;--;1:59;--;--;--;--
+313912;Culley Wilson;Culley;Wilson;F;32;US;32;All;0;162.93999;79.3786;null;null;02;South Central;South Central;South Central;ACT;0;US;138.34557;104.326164;83.91452;142.88148;--;--;2:51;1:32;--;--;--;29:00
+444303;Aoife Burke;Aoife;Burke;F;27;GB;32;All;0;165;69;null;null;02;Europe Central;Europe Central;Europe Central;ACT;0;GB;--;--;--;--;--;--;--;--;--;--;--;--
+304873;Rachel Campbell;Rachel;Campbell;F;26;US;32;All;0;157.93999;64.410065;null;null;02;South West;South West;South West;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+364588;Frederikke Frandsen;Frederikke;Frandsen;F;27;DK;32;All;0;158;61;null;null;02;Europe North;Europe North;Europe North;ACT;0;DK;120;91;77;150;--;--;--;--;--;--;--;--
+78663;Hollye Henderson;Hollye;Henderson;F;29;US;32;All;0;158.93999;62.595695;null;null;02;South Central;South Central;South Central;ACT;0;US;136.0776;102.0582;83.91452;158.7572;--;--;2:39;1:34;--;--;1:18;--
+254824;Solveig Sigurdardottir;Solveig;Sigurdardottir;F;23;IS;32;All;0;170;68.0388;null;null;02;Europe North;Europe North;Europe North;ACT;0;IS;140;109;87;145;--;--;--;--;--;--;--;--
+31592;Danielle Koch;Danielle;Koch;F;33;US;32;All;0;159.93999;68.0388;null;null;02;Central East;Central East;Central East;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+500378;Lauren Oakley;Lauren;Oakley;F;28;US;32;All;0;134.45999;56.699;null;null;02;West Coast;West Coast;West Coast;ACT;0;US;120.20188;90.7184;68.945984;179.16884;--;60;--;--;--;--;--;--
+434123;Alexis Rufus;Alexis;Rufus;F;39;GB;32;All;0;158.93999;63.04929;null;null;02;Europe Central;Europe Central;Europe Central;ACT;0;GB;--;--;--;--;--;--;--;--;--;--;--;--
+54697;Kara Paslay;Kara;Paslay;F;33;US;32;All;0;157.93999;61.23492;null;null;02;North Central;North Central;North Central;ACT;0;US;106.594124;77.11064;56.699;133.80965;--;--;--;--;--;--;--;--
+562617;Elisa Tiatia;Elisa;Tiatia;F;25;US;32;All;0;158.93999;65.77084;null;null;02;South West;South West;South West;ACT;0;US;138.34557;99.79024;74.84268;163.29312;--;--;--;--;--;--;--;--
+123860;Carlyn Frampton;Carlyn;Frampton;F;29;US;32;All;0;155.93999;52.163082;null;null;02;South West;South West;South West;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+437462;Mary Lou Womack;Mary Lou;Womack;F;24;US;32;All;0;159.93999;61.23492;null;null;02;South Central;South Central;South Central;ACT;0;US;117.93392;95.25432;72.57472;136.0776;--;--;2:24;1:40;--;--;--;--
+476241;Cierra Crowley;Cierra;Crowley;F;26;US;32;All;0;154.93999;59.42055;null;null;02;North Central;North Central;North Central;ACT;0;US;133.80965;99.79024;79.3786;151.95332;--;--;2:37;--;--;--;--;--
+424861;Jennifer Ahlberg;Jennifer;Ahlberg;F;35;US;32;All;0;2.54;69.399574;null;null;02;North Central;North Central;North Central;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+264664;Lucy Majury;Lucy;Majury;F;29;GB;32;All;0;157;63;null;null;02;Europe Central;Europe Central;Europe Central;ACT;0;GB;120;88;63;145;--;30;--;--;--;--;--;--
+466945;Randi Stevens;Randi;Stevens;F;30;US;32;All;0;164.93999;74.84268;null;null;02;South Central;South Central;South Central;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+111671;Nicolette Donovan;Nicolette;Donovan;F;24;US;32;All;0;154.93999;52.163082;null;null;02;North East;North East;North East;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+1004280;Matilda Spanou;Matilda;Spanou;F;24;GR;32;All;0;170;65;null;null;02;Europe Central;Europe Central;Europe Central;ACT;0;GR;--;--;--;--;--;--;--;--;--;--;--;--
+257958;Kirsty Oliver;Kirsty;Oliver;F;29;GB;32;All;0;163;65.77084;null;null;02;Europe Central;Europe Central;Europe Central;ACT;0;GB;135;103;75;140;--;--;3:08;1:47;--;--;--;--
+442231;Rebecca Johnson;Rebecca;Johnson;F;30;US;32;All;0;7.54;63.50288;null;null;02;South Central;South Central;South Central;ACT;0;US;129.27373;95.25432;74.84268;145.14944;--;35;2:20;3:00;--;--;1:32;--
+527546;Amber Carrillo;Amber;Carrillo;F;27;US;32;All;0;155.93999;56.699;null;null;02;South Central;South Central;South Central;ACT;0;US;120.20188;90.7184;68.0388;161.02516;--;--;--;--;--;--;--;--
+512258;Sarah Massoni;Sarah;Massoni;F;25;BE;32;All;0;165;67;null;null;02;Europe Central;Europe Central;Europe Central;WD;0;BE;--;--;--;--;--;--;--;--;--;--;--;--
+27570;Audra LeBeau;Audra;LeBeau;F;32;US;32;All;0;160.93999;67.131615;null;null;02;South Central;South Central;South Central;WD;0;US;122.46984;97.52228;79.3786;151.95332;--;--;2:23;1:21;--;--;--;--
+493769;Kelli Holm;Kelli;Holm;F;36;US;32;All;0;159.93999;63.50288;null;null;02;North Central;North Central;North Central;WD;0;US;133.80965;92.98636;80.73938;136.0776;--;50;--;--;--;--;--;--
+121354;corrin lemieux;corrin;lemieux;F;35;US;32;All;0;159.93999;66.678024;null;null;02;North East;North East;North East;WD;0;US;140.61353;114.75877;86.63607;164.6539;--;35;2:21;1:47;--;--;--;--
+309246;Rita García;Rita;García;F;30;ES;32;All;0;157;56.699;null;null;02;Europe South;Europe South;Europe South;ACT;0;ES;135;90;75;145;--;--;--;--;--;--;--;--
+242149;Brenda Castro;Brenda;Castro;F;29;MX;32;All;0;4.54;62.595695;null;null;02;Central America;Central America;Central America;ACT;0;MX;145.14944;111.13004;90.7184;--;--;45;--;--;--;--;--;--
+2942;Kara Saunders;Kara;Saunders;F;28;AU;32;All;0;162;71.667534;null;null;02;Australasia;Australasia;Australasia;ACT;0;AU;155;118;100;165;--;62;2:33;--;--;--;--;20:10
+93497;Mekenzie Riley;Mekenzie;Riley;F;30;US;32;All;0;158.93999;70.30676;null;null;02;Mid Atlantic;Mid Atlantic;Mid Atlantic;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+231624;Deanna Clegg;Deanna;Clegg;F;27;KR;32;All;0;154.93999;60.327736;null;null;02;Asia;Asia;Asia;ACT;0;KR;138.34557;97.52228;79.3786;165.56108;--;--;2:26;--;--;--;--;--
+485089;Renata Pimentel;Renata;Pimentel;F;35;BR;32;All;0;174;70;null;null;02;South America;South America;South America;ACT;0;BR;--;--;--;--;--;--;--;--;--;--;--;--
+123582;Cassidy Lance-Mcwherter;Cassidy;Lance-Mcwherter;F;30;US;32;All;0;157.93999;63.50288;null;null;02;South East;South East;South East;ACT;0;US;124.7378;97.52228;72.57472;133.80965;--;60;2:30;1:30;7:30;--;--;--
+264512;Jamie Greene;Jamie;Greene;F;27;AE;32;All;0;163;61.23492;null;null;02;Africa Middle East;Africa Middle East;Africa Middle East;ACT;0;AE;--;--;--;--;--;--;--;--;--;--;--;--
+16173;Jessica Coughlan;Jessica;Coughlan;F;29;AU;32;All;0;166;65.77084;null;null;02;Australasia;Australasia;Australasia;ACT;0;AU;--;--;--;--;--;50;2:08;2:23;8:15;--;--;--
+299053;Jacqueline Dahlstrøm;Jacqueline;Dahlstrøm;F;26;ES;32;All;0;167;66;null;null;02;Europe South;Europe South;Europe South;ACT;0;ES;--;--;--;--;--;--;--;--;--;--;--;--
+121493;Vivian Aiello Bomfim;Vivian;Aiello Bomfim;F;32;BR;32;All;0;167;68.0388;null;null;02;South America;South America;South America;ACT;0;BR;124.7378;102.0582;72.57472;165.56108;--;--;2:39;1:21;--;--;1:20;--
+117591;Caroline Dardini;Caroline;Dardini;F;26;US;32;All;0;155.93999;56.245407;null;null;02;Mid Atlantic;Mid Atlantic;Mid Atlantic;ACT;0;US;26.761929;97.52228;79.3786;--;--;1;2:06;--;--;--;--;--
+96750;Oddrun Eik Gylfadottir;Oddrun Eik;Gylfadottir;F;29;AE;32;All;0;163;58.059776;null;null;02;Africa Middle East;Africa Middle East;Africa Middle East;ACT;0;AE;132;90;75;143;--;63;--;--;--;--;1:05;21:00
+430191;Alanna Fisk;Alanna;Fisk;F;26;US;32;All;0;135.45999;56.699;null;null;02;South East;South East;South East;ACT;0;US;138.34557;92.98636;79.3786;147.4174;--;45;2:08;--;--;--;--;19:21
+276218;Lea Schmidt;Lea;Schmidt;F;26;MX;32;All;0;162;55;null;null;02;Central America;Central America;Central America;ACT;0;MX;113.398;91.17199;72.57472;140.61353;--;30;3:00;--;13:53;--;--;--
+221169;Victoria Campos;Victoria;Campos;F;25;HK;32;All;0;161;60.78133;null;null;02;Asia;Asia;Asia;ACT;0;HK;109.769264;86.18248;72.57472;133.80965;--;45;3:05;3:34;--;--;1:22;22:20
+96114;Kaitlyn Brierley;Kaitlyn;Brierley;F;26;US;32;All;0;156.93999;60.78133;null;null;02;Mid Atlantic;Mid Atlantic;Mid Atlantic;ACT;0;US;127.00576;106.594124;86.18248;158.7572;--;--;--;--;7:24;--;--;--
+163097;Tia-Clair Toomey;Tia-Clair;Toomey;F;24;AU;32;All;0;163;58;null;null;02;Australasia;Australasia;Australasia;ACT;0;AU;150;111;87;178;--;50;2:13;1:21;--;--;--;--
+107939;Antonelli Nicole;Antonelli;Nicole;F;32;BR;32;All;0;153;60.78133;null;null;02;South America;South America;South America;ACT;0;BR;--;--;--;--;--;--;--;--;--;--;--;--
+39517;Emilia Leppänen;Emilia;Leppänen;F;31;AE;32;All;0;165;68.0388;null;null;02;Africa Middle East;Africa Middle East;Africa Middle East;ACT;0;AE;--;--;--;--;--;--;--;--;--;--;--;--
+353889;Vanessa Benavides;Vanessa;Benavides;F;23;MX;32;All;0;154;57.606186;null;null;02;Central America;Central America;Central America;ACT;0;MX;--;--;--;--;--;--;--;--;--;--;--;--
+51125;Megan Lovegrove;Megan;Lovegrove;F;29;SG;32;All;0;158;60.78133;null;null;02;Asia;Asia;Asia;ACT;0;SG;--;--;--;--;--;--;--;--;--;--;--;--
+4925;Emily Bridgers;Emily;Bridgers;F;31;US;32;All;0;155.93999;61.23492;null;null;02;South East;South East;South East;ACT;0;US;124.7378;102.965385;83.91452;151.95332;412;--;--;1:19;--;--;--;--
+173107;Elia Navarro;Elia;Navarro;F;36;ES;32;All;0;157.93999;60.78133;null;null;02;Europe South;Europe South;Europe South;ACT;0;ES;--;--;--;--;--;--;--;--;--;--;--;--
+142721;Jennifer Reyes;Jennifer;Reyes;F;31;AR;32;All;0;169;66.678024;null;null;02;South America;South America;South America;ACT;0;AR;140;100;85;160;--;45;2:20;--;7:21;--;--;--
+60656;Justine Beath;Justine;Beath;F;28;AU;32;All;0;163;60.327736;null;null;02;Australasia;Australasia;Australasia;ACT;0;AU;142.88148;106.594124;86.18248;157.39642;--;--;2:25;1:45;--;--;1:07;--
+531598;Paige Semenza;Paige;Semenza;F;26;US;32;All;0;157.93999;63.50288;null;null;02;Mid Atlantic;Mid Atlantic;Mid Atlantic;ACT;0;US;138.34557;95.25432;77.11064;163.29312;--;--;--;--;--;--;--;--
+387995;Stephanie Chung;Stephanie;Chung;F;26;AE;32;All;0;159.93999;63.50288;null;null;02;Africa Middle East;Africa Middle East;Africa Middle East;ACT;0;AE;113.398;95.25432;86.18248;--;--;--;--;--;--;--;--;--
+239210;Andrea Rodriguez;Andrea;Rodriguez;F;32;EC;32;All;0;165;77.11064;null;null;02;South America;South America;South America;ACT;0;EC;--;--;--;--;--;--;--;--;--;--;--;--
+568074;Anne Claire Dreyfus;Anne Claire;Dreyfus;F;31;FR;32;All;0;166;58;null;null;02;Europe South;Europe South;Europe South;ACT;0;FR;--;--;--;--;--;--;--;--;--;--;--;--
+144083;Yuko Sakuyama;Yuko;Sakuyama;F;31;JP;32;All;0;152;55.791817;null;null;02;Asia;Asia;Asia;ACT;0;JP;129.27373;92.98636;74.84268;142.88148;--;--;--;--;--;--;--;--
+871307;McKenzie Flinchum;McKenzie;Flinchum;F;26;US;32;All;0;159.93999;65.77084;null;null;02;South East;South East;South East;ACT;0;US;129.27373;99.79024;88.45044;147.4174;--;--;1:56;--;--;--;--;--
+19117;Lauren Fisher;Lauren;Fisher;F;24;AE;32;All;0;159.93999;61.23492;null;null;02;Africa Middle East;Africa Middle East;Africa Middle East;ACT;0;AE;131.54169;109.769264;83.00734;167.82904;--;50;2:19;--;--;--;1:06;--
+103786;Cecilia Ramirez Villamil;Cecilia;Ramirez Villamil;F;29;MX;32;All;0;163;68.0388;null;null;02;Central America;Central America;Central America;ACT;0;MX;138.34557;95.25432;63.50288;170.097;--;30;4:43;--;--;--;--;--
+21556;Madeline Sturt;Madeline;Sturt;F;21;AU;32;All;0;158;62;null;null;02;Australasia;Australasia;Australasia;ACT;0;AU;128;92;72;155;--;--;--;--;--;--;--;--
+617739;Melissa Doll;Melissa;Doll;F;25;US;32;All;0;163.93999;78.47141;null;null;02;Mid Atlantic;Mid Atlantic;Mid Atlantic;ACT;0;US;179.16884;101.15102;81.64656;170.097;464;--;2:12;1:29;--;--;--;22:38
+152663;Alison Scudds;Alison;Scudds;F;25;US;32;All;0;156.93999;58.96696;null;null;02;South East;South East;South East;ACT;0;US;136.0776;102.0582;83.91452;162.38594;--;35;2:08;2:55;--;--;--;--
+534577;Melina Rodriguez;Melina;Rodriguez;F;22;AR;32;All;0;156;53.977448;null;null;02;South America;South America;South America;ACT;0;AR;--;--;--;--;--;--;--;--;--;--;--;--
+135495;Mallory Berger;Mallory;Berger;F;33;AU;32;All;0;156.93999;63.50288;null;null;02;Australasia;Australasia;Australasia;ACT;0;AU;149.68536;102.0582;81.64656;161.02516;--;--;--;--;--;--;--;--
+103617;Carmen Bosmans;Carmen;Bosmans;F;29;AE;32;All;0;167;70;null;null;02;Africa Middle East;Africa Middle East;Africa Middle East;ACT;0;AE;135;91;80;140;339;60;2:32;--;8:45;--;1:16;--
+274049;Manila Pennacchio;Manila;Pennacchio;F;31;IT;32;All;0;165;70;null;null;02;Europe South;Europe South;Europe South;ACT;0;IT;145;102;77;155;--;--;3:05;1:41;--;--;--;--
+752571;Rochelle Steinbergs;Rochelle;Steinbergs;F;26;AU;32;All;0;168;68;null;null;02;Australasia;Australasia;Australasia;ACT;0;AU;140;105;82;155;--;--;2:43;--;8:40;--;1:18;--
+216953;Yazmin Arroyo Loaiza;Yazmin;Arroyo Loaiza;F;30;MX;32;All;0;168;63.50288;null;null;02;Central America;Central America;Central America;ACT;0;MX;120.20188;92.98636;83.91452;138.34557;--;50;3:15;2:04;--;--;--;--
+236908;Lindsay Eder;Lindsay;Eder;F;29;US;32;All;0;160.93999;65.317245;null;null;02;Mid Atlantic;Mid Atlantic;Mid Atlantic;ACT;0;US;127.00576;95.25432;79.3786;142.88148;444;42;2:23;1:33;8:24;19:30;--;--
+205691;Ana C. Caldas;Ana C.;Caldas;F;40;CH;32;All;0;163.93999;83.91452;null;null;02;Europe South;Europe South;Europe South;ACT;0;PT;190.50864;120.20188;99.79024;219.99213;--;--;2:40;0:57;--;--;--;--
+499595;Thatianne Freitas;Thatianne;Freitas;F;24;BR;32;All;0;158;58.513367;null;null;02;South America;South America;South America;ACT;0;BR;--;--;--;--;--;--;--;--;--;--;--;--
+36285;Sarabeth Phillips;Sarabeth;Phillips;F;31;US;32;All;0;155.93999;58.059776;null;null;02;South East;South East;South East;ACT;0;US;149.68536;108.86208;90.7184;158.7572;--;54;2:07;1:34;8:52;--;--;--
+374193;Anna Donauer;Anna;Donauer;F;28;ID;32;All;0;166;60;null;null;02;Asia;Asia;Asia;ACT;0;ID;--;--;--;--;--;--;--;--;--;--;--;--
+23578;Sarah Scholl;Sarah;Scholl;F;36;US;32;All;0;162.93999;65.77084;null;null;02;Mid Atlantic;Mid Atlantic;Mid Atlantic;ACT;0;US;133.80965;95.25432;77.11064;149.68536;428;60;2:05;1:50;8:11;18:04;0:58;18:30
+343520;Daniela Carbajal;Daniela;Carbajal;F;22;MX;32;All;0;4.54;70;null;null;02;Central America;Central America;Central America;ACT;0;MX;--;--;--;--;--;--;--;--;--;--;--;--
+443434;Jennifer Kokk;Jennifer;Kokk;F;22;AE;32;All;0;166;71;null;null;02;Africa Middle East;Africa Middle East;Africa Middle East;ACT;0;AE;115;95;80;135;--;30;2:38;1:35;10:37;--;--;23:00
+120247;Katelin Marks;Katelin;Marks;F;26;AU;32;All;0;171;68;null;null;02;Australasia;Australasia;Australasia;ACT;0;AU;130;105;82;150;--;--;2:44;1:26;--;--;--;21:00
+717842;Mayra Medina;Mayra;Medina;F;29;MX;32;All;0;157;57;null;null;02;Central America;Central America;Central America;ACT;0;MX;129.27373;83.91452;68.0388;120.20188;--;--;2:17;--;--;--;--;23:00
+272273;Mia Åkerlund;Mia;Åkerlund;F;28;AE;32;All;0;168;68;null;null;02;Africa Middle East;Africa Middle East;Africa Middle East;ACT;0;AE;140;108;91;140;--;--;--;1:39;--;--;--;--
+670000;Dani Speegle;Dani;Speegle;F;24;US;32;All;0;160.93999;76.20345;null;null;02;South East;South East;South East;ACT;0;US;133.80965;99.79024;92.98636;140.61353;312;30;3:30;2:10;--;--;--;--
+267049;Uracha Teerawanitsan;Uracha;Teerawanitsan;F;25;TH;32;All;0;156;59.874146;null;null;02;Asia;Asia;Asia;ACT;0;TH;138.34557;92.98636;74.84268;145.14944;--;--;--;--;--;--;--;--
+530860;Shelby Neal;Shelby;Neal;F;18;US;32;All;0;156.93999;61.23492;null;null;02;Mid Atlantic;Mid Atlantic;Mid Atlantic;ACT;0;US;124.7378;99.79024;77.56423;136.0776;--;--;--;--;--;--;--;--
+535855;Luiza Dias;Luiza;Dias;F;26;BR;32;All;0;151;53;null;null;02;South America;South America;South America;ACT;0;BR;--;--;--;--;--;--;--;--;--;--;--;--
+423007;Simone Arthur;Simone;Arthur;F;24;AU;32;All;0;159;64;null;null;02;Australasia;Australasia;Australasia;ACT;0;AU;130;100;75;160;--;40;2:19;1:47;--;--;--;--
+444393;Tina Moeglin;Tina;Moeglin;F;24;FR;32;All;0;155;59;null;null;02;Europe South;Europe South;Europe South;ACT;0;FR;130;100;80;155;--;--;2:14;--;--;--;--;--
+4376;Anita Pravatti;Anita;Pravatti;F;32;BR;32;All;0;174;72.57472;null;null;02;South America;South America;South America;ACT;0;BR;--;--;--;--;--;--;--;--;--;--;--;--
+277184;Laura Gonzalez-Marin;Laura;Gonzalez-Marin;F;24;US;32;All;0;161.93999;70.30676;null;null;02;South East;South East;South East;ACT;0;US;138.34557;113.398;90.7184;183.70476;--;--;--;1:29;--;--;--;--
+258629;Thelma Christoforou;Thelma;Christoforou;F;31;CY;32;All;0;168;64;null;null;02;Europe South;Europe South;Europe South;ACT;0;CY;--;--;--;--;--;--;--;--;--;--;--;--
+244371;Gemma Root;Gemma;Root;F;32;NZ;32;All;0;161.93999;61.23492;null;null;02;Australasia;Australasia;Australasia;ACT;0;NZ;--;--;--;--;--;--;--;--;--;--;--;--
+330548;Jimena Delamer;Jimena;Delamer;F;36;AR;32;All;0;159.93999;62.142105;null;null;02;South America;South America;South America;ACT;0;AR;--;--;--;--;--;--;--;--;--;--;--;--
+110918;Whitney Gelin;Whitney;Gelin;F;33;US;32;All;0;161.93999;74.84268;null;null;02;Mid Atlantic;Mid Atlantic;Mid Atlantic;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+138235;Choi Mi-Jung;Choi;Mi-Jung;F;29;KR;32;All;0;167;56.699;null;null;02;Asia;Asia;Asia;ACT;0;KR;--;--;--;--;--;--;--;--;--;--;--;--
+324516;Karin Baalbaki;Karin;Baalbaki;F;27;AE;32;All;0;164;66;null;null;02;Africa Middle East;Africa Middle East;Africa Middle East;ACT;0;AE;115;70;62;135;297;--;3:52;--;--;--;--;--
+506332;Kolson Lamb Casey;Kolson;Lamb Casey;F;26;US;32;All;0;162.93999;68.0388;null;null;02;South East;South East;South East;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+1237131;Luaneth Alveo;Luaneth;Alveo;F;19;PA;32;All;0;2.54;57.606186;null;null;02;Central America;Central America;Central America;ACT;0;PA;--;--;--;--;--;--;--;--;--;--;--;--
+390443;Alessia Joy Wälchli;Alessia Joy;Wälchli;F;24;CH;32;All;0;168;63;null;null;02;Europe South;Europe South;Europe South;ACT;0;CH;--;100;81;--;--;--;--;--;--;--;--;--
+2099;Harriet Roberts;Harriet;Roberts;F;26;AU;32;All;0;171;67.585205;null;null;02;Australasia;Australasia;Australasia;ACT;0;AU;--;--;--;--;--;--;--;--;--;--;--;--
+455677;Larissa Cunha;Larissa;Cunha;F;27;BR;32;All;0;153;64;null;null;02;South America;South America;South America;ACT;0;BR;--;--;--;--;--;--;--;--;--;--;--;--
+148542;Meghan Root;Meghan;Root;F;30;US;32;All;0;157.93999;61.23492;null;null;02;Mid Atlantic;Mid Atlantic;Mid Atlantic;ACT;0;US;129.27373;97.52228;79.3786;142.88148;--;--;2:18;1:08;--;--;1:06;19:37
+180078;Stephanie Ortiz;Stephanie;Ortiz;F;30;AU;32;All;0;157.93999;63.50288;null;null;02;Australasia;Australasia;Australasia;ACT;0;AU;115;95;72;135;--;--;--;--;--;--;--;--
+584999;Joanne McGurk;Joanne;McGurk;F;29;KW;32;All;0;160;66;null;null;02;Africa Middle East;Africa Middle East;Africa Middle East;ACT;0;KW;--;--;--;--;--;--;--;--;--;--;--;--
+522439;Elise Richmond;Elise;Richmond;F;30;ID;32;All;0;164;65;null;null;02;Asia;Asia;Asia;ACT;0;ID;--;--;--;--;--;--;--;--;--;--;--;--
+444939;Alizee Andreani;Alizee;Andreani;F;30;FR;32;All;0;153;53;null;null;02;Europe South;Europe South;Europe South;ACT;0;FR;--;--;--;--;--;--;--;--;--;--;--;--
+1187609;Sasha Nievas;Sasha;Nievas;F;20;AR;32;All;0;156;59;null;null;02;South America;South America;South America;ACT;0;AR;150;120;100;155;--;--;2:20;1:45;--;--;--;--
+43737;Nicole Corey;Nicole;Corey;F;26;US;32;All;0;159.93999;74.84268;null;null;02;South East;South East;South East;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+330326;Carole Castellani;Carole;Castellani;F;29;FR;32;All;0;170;68;null;null;02;Europe South;Europe South;Europe South;ACT;0;FR;116;95;77;150;--;--;--;--;--;--;--;--
+229700;Chelsea Docherty;Chelsea;Docherty;F;30;AU;32;All;0;161;63;null;null;02;Australasia;Australasia;Australasia;ACT;0;AU;130;78;53;152;--;--;--;--;--;--;--;--
+8615;Kelly Edelmann;Kelly;Edelmann;F;43;SX;32;All;0;161.93999;65.77084;null;null;02;Central America;Central America;Central America;ACT;0;SX;120.20188;83.00734;68.49239;142.88148;349;40;3:01;2:32;8:55;24:09;1:37;25:26
+1101674;Stevie Dellinger;Stevie;Dellinger;F;28;US;32;All;0;158.93999;68.0388;null;null;02;Mid Atlantic;Mid Atlantic;Mid Atlantic;ACT;0;US;;;;;;;;;;;;
+149271;Erin Carter;Erin;Carter;F;40;US;32;All;0;157.93999;63.50288;null;null;02;South East;South East;South East;ACT;0;US;117.93392;90.7184;74.84268;136.0776;--;--;--;--;--;--;--;--
+505225;Michelle Merand;Michelle;Merand;F;29;ZA;32;All;0;158;59;null;null;02;Africa Middle East;Africa Middle East;Africa Middle East;ACT;0;ZA;121;92;74;147;--;40;2:57;2:20;--;--;1:02;23:00
+527325;Susana Raquel Rodrigues Etto;Susana Raquel;Rodrigues Etto;F;34;BR;32;All;0;155;65;null;null;02;South America;South America;South America;ACT;0;BR;--;--;--;--;--;--;--;--;--;--;--;--
+241977;Kat Baker;Kat;Baker;F;31;AU;32;All;0;167;66.678024;null;null;02;Australasia;Australasia;Australasia;ACT;0;AU;118;93;71;160;440;--;2:34;1:56;--;16:37;--;--
+1337287;Oksana Zyuzina;Oksana;Zyuzina;F;29;RU;32;All;0;170;65;null;null;02;Asia;Asia;Asia;ACT;0;RU;--;--;--;--;--;--;--;--;--;--;--;--
+95256;Bailey Garrett;Bailey;Garrett;F;27;US;32;All;0;157.93999;63.50288;null;null;02;Mid Atlantic;Mid Atlantic;Mid Atlantic;ACT;0;US;124.7378;102.0582;90.7184;158.7572;--;--;--;--;--;--;--;--
+120277;Sabrina Nunes;Sabrina;Nunes;F;26;FR;32;All;0;161;58;null;null;02;Europe South;Europe South;Europe South;ACT;0;FR;--;--;--;--;--;--;--;--;--;--;--;--
+123213;Christine Knieff;Christine;Knieff;F;34;SV;32;All;0;159.93999;62.595695;null;null;02;Central America;Central America;Central America;ACT;0;SV;--;--;--;--;--;--;--;--;--;--;--;--
+485248;Katlin Isaacs;Katlin;Isaacs;F;24;US;32;All;0;135.45999;57.606186;null;null;02;Mid Atlantic;Mid Atlantic;Mid Atlantic;ACT;0;US;151.95332;102.0582;81.64656;--;--;50;2:05;1:13;--;--;--;--
+329428;Christee Bishop;Christee;Bishop;F;27;AU;32;All;0;158;60;null;null;02;Australasia;Australasia;Australasia;ACT;0;AU;--;--;--;--;--;--;--;--;--;--;--;--
+855131;Nicole Pettel;Nicole;Pettel;F;26;IL;32;All;0;157.93999;70.30676;null;null;02;Africa Middle East;Africa Middle East;Africa Middle East;ACT;0;IL;151.95332;88.45044;--;170.097;--;--;--;--;--;--;--;--
+470917;Nathalia Mencari;Nathalia;Mencari;F;24;BR;32;All;0;166;64;null;null;02;South America;South America;South America;ACT;0;BR;--;--;--;--;--;--;--;--;--;--;--;--
+291518;Helen Harding;Helen;Harding;F;42;AU;32;All;0;156.93999;58.513367;null;null;02;Australasia;Australasia;Australasia;ACT;0;AU;112;88;73;152;--;55;2:19;--;--;--;--;--
+13179;Paige Henry;Paige;Henry;F;28;US;32;All;0;158.93999;65.77084;null;null;02;Mid Atlantic;Mid Atlantic;Mid Atlantic;ACT;0;US;106.594124;90.7184;72.57472;147.4174;--;--;2:37;--;--;--;--;--
+21240;Eliana Jimenez;Eliana;Jimenez;F;26;PA;32;All;0;165;65.77084;null;null;02;Central America;Central America;Central America;ACT;0;PA;113.398;88.45044;68.0388;133.80965;--;20;--;--;--;--;--;--
+101492;Celestie Engelbrecht;Celestie;Engelbrecht;F;30;ZA;32;All;0;168;60.78133;null;null;02;Africa Middle East;Africa Middle East;Africa Middle East;ACT;0;ZA;140;100;80;150;--;--;2:13;--;--;--;--;--
+251823;Callerina Natori;Callerina;Natori;F;28;US;32;All;0;163.93999;72.57472;null;null;02;South East;South East;South East;ACT;0;US;142.88148;106.594124;77.11064;165.56108;--;--;--;--;--;--;--;--
+288819;Constanza Cabrera;Constanza;Cabrera;F;23;CL;32;All;0;160;64.863655;null;null;02;South America;South America;South America;ACT;0;CL;149.68536;106.140526;87.99685;149.68536;--;--;--;--;--;--;--;--
+968237;Ekaterina Makarova;Ekaterina;Makarova;F;25;RU;32;All;0;175;71;null;null;02;Asia;Asia;Asia;ACT;0;RU;--;--;--;--;--;--;--;--;--;--;--;--
+227850;Nuha Almarri;Nuha;Almarri;F;31;AE;32;All;0;164;65;null;null;02;Africa Middle East;Africa Middle East;Africa Middle East;ACT;0;AE;140.61353;102.0582;81.64656;161.02516;--;--;--;--;--;--;1:31;--
+477709;Courtney Haley;Courtney;Haley;F;23;AU;32;All;0;165;69;null;null;02;Australasia;Australasia;Australasia;ACT;0;AU;125;97;80;145;382;51;2:33;2:04;--;19:25;1:05;22:30
+841247;Andreia Pinheiro;Andreia;Pinheiro;F;35;BR;32;All;0;161.93999;69.853165;null;null;02;South America;South America;South America;ACT;0;BR;120;90;45;120;--;42;2:50;2:41;--;--;--;--
+249631;Jaimie Byerly;Jaimie;Byerly;F;28;US;32;All;0;159.93999;64.863655;null;null;02;Mid Atlantic;Mid Atlantic;Mid Atlantic;ACT;0;US;124.7378;102.0582;81.64656;147.4174;325;--;--;1:59;--;17:52;--;--
+140531;matilde orlandoni;matilde;orlandoni;F;30;IT;32;All;0;155;57;null;null;02;Europe South;Europe South;Europe South;ACT;0;IT;--;--;--;--;--;--;--;--;--;--;--;--
+926594;Katherine Bogantes Chaves;Katherine;Bogantes Chaves;F;27;CR;32;All;0;157;63;null;null;02;Central America;Central America;Central America;ACT;0;CR;--;--;--;--;--;--;--;--;--;--;--;--
+503411;Nikita-Jenna Van Rooyen;Nikita-Jenna;Van Rooyen;F;25;ZA;32;All;0;152;61;null;null;02;Africa Middle East;Africa Middle East;Africa Middle East;ACT;0;ZA;--;--;--;--;--;--;--;--;--;--;--;--
+96575;Samantha Drescher;Samantha;Drescher;F;26;AU;32;All;0;183;74.84268;null;null;02;Australasia;Australasia;Australasia;ACT;0;AU;145;105;88;160;440;40;3:00;1:40;--;--;--;--
+40480;Mayra Brandt;Mayra;Brandt;F;38;US;32;All;0;161.93999;70.30676;null;null;02;South East;South East;South East;ACT;0;US;136.0776;104.779755;88.45044;--;394;--;2:23;1:33;--;--;--;23:12
+113169;Megan O'Donnell;Megan;O'Donnell;F;29;US;32;All;0;158.93999;68.0388;null;null;02;Mid Atlantic;Mid Atlantic;Mid Atlantic;ACT;0;US;138.34557;102.0582;77.11064;147.4174;--;--;--;--;--;--;--;--
+943255;Luana Soares;Luana;Soares;F;27;BR;32;All;0;184;90;null;null;02;South America;South America;South America;ACT;0;BR;180;135;105;190;--;--;--;--;--;--;1:33;--
+501638;Ashleigh Corby;Ashleigh;Corby;F;28;AU;32;All;0;152;56;null;null;02;Australasia;Australasia;Australasia;ACT;0;AU;122;86;67;155;--;--;--;2:00;--;--;--;22:39
+214598;Michaela Palova;Michaela;Palova;F;28;IT;32;All;0;169;66.224434;null;null;02;Europe South;Europe South;Europe South;ACT;0;IT;120;80;75;155;--;--;3:54;1:41;--;--;0:57;--
+110783;Mary Jamieson;Mary;Jamieson;F;35;ZA;32;All;0;0;74.84268;null;null;02;Africa Middle East;Africa Middle East;Africa Middle East;ACT;0;ZA;51;25;130;66;--;1;--;--;--;--;--;--
+216633;Camila Gonzalez;Camila;Gonzalez;F;28;CR;32;All;0;168;63.50288;null;null;02;Central America;Central America;Central America;ACT;0;CR;102.0582;83.91452;68.0388;120.20188;--;30;3:17;2:59;--;--;--;--
+276263;Kimberlee DeKrey;Kimberlee;DeKrey;F;27;US;32;All;0;162.93999;69.399574;null;null;02;South East;South East;South East;ACT;0;US;115.66596;86.18248;72.57472;136.0776;--;--;--;--;--;--;--;--
+503203;Emma Wright;Emma;Wright;F;26;NZ;32;All;0;165;69;null;null;02;Australasia;Australasia;Australasia;ACT;0;NZ;--;--;--;--;--;--;--;--;--;--;--;--
+4749;Morgan Schaeffer;Morgan;Schaeffer;F;27;NZ;32;All;0;156.93999;67;null;null;02;Australasia;Australasia;Australasia;ACT;0;NZ;110;85;75;140;--;--;3:00;2:58;--;--;--;--
+775167;Rosana Prado;Rosana;Prado;F;29;BR;32;All;0;4.54;69;null;null;02;South America;South America;South America;ACT;0;BR;115;85;65;140;--;--;--;3:33;--;--;--;--
+527011;Lisa Eble;Lisa;Eble;F;27;CH;32;All;0;160;65.77084;null;null;02;Europe South;Europe South;Europe South;ACT;0;CH;119;100;80;155;--;--;--;--;--;--;--;--
+671666;Haley Adams;Haley;Adams;F;17;US;32;All;0;160.93999;58.96696;null;null;02;Mid Atlantic;Mid Atlantic;Mid Atlantic;ACT;0;US;115.66596;92.98636;79.3786;136.0776;--;--;--;--;--;--;--;20:04
+243517;Tata Rebane;Tata;Rebane;F;36;BR;32;All;0;161.93999;73.02831;null;null;02;South America;South America;South America;ACT;0;BR;160;110;80;180;--;--;2:42;2:00;9:17;--;--;--
+104651;Isabelle Gosling;Isabelle;Gosling;F;23;AU;32;All;0;160;65;null;null;02;Australasia;Australasia;Australasia;ACT;0;AU;130;100;81;134;--;--;--;--;--;--;--;--
+586471;Jess Towl;Jess;Towl;F;31;AE;32;All;0;178;70;null;null;02;Africa Middle East;Africa Middle East;Africa Middle East;ACT;0;AE;115;90;73;162;--;--;--;2:16;--;--;1:06;18:17
+75727;Chassity Martin;Chassity;Martin;F;33;US;32;All;0;158.93999;62.595695;null;null;02;Mid Atlantic;Mid Atlantic;Mid Atlantic;ACT;0;US;108.86208;92.98636;74.84268;136.0776;--;--;--;--;--;--;--;--
+507096;Liliana Orjuela;Liliana;Orjuela;F;33;AR;32;All;0;163;63;null;null;02;South America;South America;South America;ACT;0;AR;--;--;--;--;--;--;--;--;--;--;--;--
+120538;Eva Cortiella;Eva;Cortiella;F;35;ES;32;All;0;156.93999;58.96696;null;null;02;Europe South;Europe South;Europe South;ACT;0;ES;100;80;60;160;--;--;--;--;--;--;--;--
+10886;Sammy Wood;Sammy;Wood;F;30;AU;32;All;0;165;68;null;null;02;Australasia;Australasia;Australasia;ACT;0;AU;131.54169;106.594124;92.98636;158.7572;--;50;2:32;1:18;--;--;--;--
+544235;Elizabeth Bradley;Elizabeth;Bradley;F;22;US;32;All;0;156.93999;63.50288;null;null;02;South East;South East;South East;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+514323;Briana Gongloff;Briana;Gongloff;F;27;US;32;All;0;158.93999;71.667534;null;null;02;Mid Atlantic;Mid Atlantic;Mid Atlantic;ACT;0;US;142.88148;108.86208;88.45044;145.14944;--;--;3:23;1:38;11:41;22:43;1:24;27:30
+10736;Carrie Freestone;Carrie;Freestone;F;35;AE;32;All;0;156.93999;61.23492;null;null;02;Africa Middle East;Africa Middle East;Africa Middle East;ACT;0;AE;--;--;--;--;--;--;--;--;--;--;--;--
+250929;Constanza Sepulveda;Constanza;Sepulveda;F;34;CL;32;All;0;160;61.23492;null;null;02;South America;South America;South America;ACT;0;CL;115.66596;79.3786;65.77084;136.0776;--;--;--;--;--;--;--;--
+43198;Lindsay Vaughan;Lindsay;Vaughan;F;33;AU;32;All;0;162.93999;69;null;null;02;Australasia;Australasia;Australasia;ACT;0;AU;110;94;80;125;--;71;2:42;1:43;--;--;--;--
+443180;Judit Torrabadella Boixaderas;Judit;Torrabadella Boixaderas;F;29;ES;32;All;0;165;63;null;null;02;Europe South;Europe South;Europe South;ACT;0;ES;70;--;--;70;--;--;--;--;--;--;--;--
+343910;Gretchen Lee;Gretchen;Lee;F;29;US;32;All;0;162.93999;65.77084;null;null;02;Mid Atlantic;Mid Atlantic;Mid Atlantic;ACT;0;US;124.7378;95.25432;68.0388;138.34557;--;--;2:42;--;--;--;--;--
+26129;Julieta Chapi;Julieta;Chapi;F;29;AR;32;All;0;163;60;null;null;02;South America;South America;South America;ACT;0;AR;--;--;--;--;--;--;--;--;--;--;--;--
+101651;Joelene Neville;Joelene;Neville;F;32;NZ;32;All;0;169;72;null;null;02;Australasia;Australasia;Australasia;ACT;0;NZ;130;104;80;165;410;32;2:43;1:54;--;--;1:01;22:56
+248499;Chris Schmidt;Chris;Schmidt;F;34;BR;32;All;0;161;68;null;null;02;South America;South America;South America;ACT;0;BR;--;--;--;--;--;--;--;--;--;--;--;--
+2626;Jordan Christie;Jordan;Christie;F;26;US;32;All;0;159.93999;68.0388;null;null;02;South East;South East;South East;ACT;0;US;--;--;--;--;--;--;2:57;1:42;--;--;1:03;--
+160364;Susana Lopez;Susana;Lopez;F;28;ES;32;All;0;162;64;null;null;02;Europe South;Europe South;Europe South;ACT;0;ES;130;92;68;150;--;40;2:23;1:15;--;--;1:10;21:30
+117057;Jasmin Wood;Jasmin;Wood;F;27;AU;32;All;0;169;68;null;null;02;Australasia;Australasia;Australasia;ACT;0;AU;121;91.17199;70;135;--;--;--;1:56;--;--;--;--
+143671;Whitney Stephenson;Whitney;Stephenson;F;30;US;32;All;0;162.93999;63.50288;null;null;02;South East;South East;South East;ACT;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+278208;Carmen Navarro;Carmen;Navarro;F;31;CL;32;All;0;4.54;57;null;null;02;South America;South America;South America;ACT;0;CL;--;--;--;--;--;--;--;--;--;--;--;23:02
+289559;Johanni Taljaard;Johanni;Taljaard;F;33;ZA;32;All;0;156;58;null;null;02;Africa Middle East;Africa Middle East;Africa Middle East;ACT;0;ZA;135;97;81;135;--;50;2:26;--;--;--;1:10;28:30
+101010;April Hering;April;Hering;F;26;AU;32;All;0;170;69;null;null;02;Australasia;Australasia;Australasia;ACT;0;AU;110;95;78;150;--;--;--;--;--;--;--;--
+114798;Alice Tucker;Alice;Tucker;F;26;AU;32;All;0;170;64;null;null;02;Australasia;Australasia;Australasia;ACT;0;AU;--;--;--;--;--;--;--;--;--;--;--;--
+635438;Simona Quintana;Simona;Quintana;F;22;CL;32;All;0;167;63;null;null;02;South America;South America;South America;ACT;0;CL;--;79.3786;--;--;--;--;3:02;--;--;--;--;19:25
+475323;Nikita Dicks;Nikita;Dicks;F;29;US;32;All;0;156.93999;64.863655;null;null;02;South East;South East;South East;ACT;0;US;147.4174;108.86208;88.45044;183.70476;312;--;2:53;2:02;9:10;27:16;--;25:02
+228615;Amnah Bahar;Amnah;Bahar;F;28;AE;32;All;0;165;70;null;null;02;Africa Middle East;Africa Middle East;Africa Middle East;ACT;0;AE;--;--;--;--;--;--;--;--;--;--;--;--
+51602;Evelina Dalecki;Evelina;Dalecki;F;27;AU;32;All;0;152;59.874146;null;null;02;Australasia;Australasia;Australasia;ACT;0;AU;122;41.27687;32.205032;128;--;45;2:28;--;--;--;--;--
+331790;Julia Glotz;Julia;Glotz;F;26;US;32;All;0;159.93999;65.77084;null;null;02;South East;South East;South East;ACT;0;US;147.4174;102.511795;87.54326;136.53119;--;--;--;--;--;--;--;--
+424955;Jessica Vetter;Jessica;Vetter;F;33;FR;32;All;0;173;66;null;null;02;Europe South;Europe South;Europe South;ACT;0;FR;--;--;--;--;--;--;--;--;--;--;--;--
+107619;Laken Watt;Laken;Watt;F;27;AU;32;All;0;157;60;null;null;02;Australasia;Australasia;Australasia;ACT;0;AU;110;82;61;130;--;--;2:29;--;8:43;--;--;22:31
+238601;Monique Williams;Monique;Williams;F;27;US;32;All;0;158.93999;61.68851;null;null;02;South East;South East;South East;ACT;0;US;145.14944;106.594124;83.91452;183.70476;--;--;--;--;--;--;--;--
+751083;Danila Capaccetti;Danila;Capaccetti;F;34;IT;32;All;0;170;71;null;null;02;Europe South;Europe South;Europe South;ACT;0;IT;140;105;83;145;--;45;2:13;1:33;--;--;--;--
