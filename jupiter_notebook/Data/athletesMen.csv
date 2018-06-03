@@ -1,0 +1,41 @@
+CompetitorId;CompetitorName;FirstName;LastName;Gender;Age;CountryCode;RegionId;RegionalName;Profession;Height_cm;Weight_kg;AffiliateId;AffiliateName;DivisionId;RegionName;RegionCode;RegionalCode;Status;TeamCaptain;CountryOfOriginCode;BackSquat_kg;CleanAndJerk_kg;Snatch_kg;DeadLift_kg;FightGoneBad;MaxPullUps;Fran;Grace;Helen;Filthy50;Sprint400m;Rn5k
+975774;Roman Khrennikov;Roman;Khrennikov;M;23;RU;22;Europe;0;182;97;26169;Sever CrossFit;01;Europe North;Europe North;Europe North;ACT;0;RU;219.99213;129.72731;99.79024;209.55951;--;50;2:45;1:50;--;--;--;--
+698182;Adrian Mundwiler;Adrian;Mundwiler;M;25;DE;22;Europe;0;171;83;26497;CrossFit Rhein-Neckar;01;Europe Central;Europe Central;Europe Central;ACT;0;DE;220;160;140;240;--;--;--;--;--;--;--;--
+24309;Lukas Högberg;Lukas;Högberg;M;27;SE;22;Europe;0;183;95.70792;26296;CrossFit Nordic;01;Europe North;Europe North;Europe North;ACT;0;SE;200;155;130;243;--;--;--;--;--;--;--;--
+92567;Andrey Ganin;Andrey;Ganin;M;34;RU;22;Europe;0;185;104;26105;CrossFit MDN;01;Europe North;Europe North;Europe North;ACT;0;RU;200;151;130;260;--;63;2:13;--;--;--;0:57;18:55
+81616;Björgvin Karl Guðmundsson;Björgvin Karl;Guðmundsson;M;25;IS;22;Europe;0;178;83.91452;26478;CrossFit Hengill;01;Europe North;Europe North;Europe North;ACT;0;IS;201.84843;151.95332;129.72731;235.86784;--;65;2:23;2:00;--;--;--;19:20
+18543;Frederik Aegidius;Frederik;Aegidius;M;31;IS;22;Europe;0;174;84;26545;Reebok CrossFit Reykjavík;01;Europe North;Europe North;Europe North;ACT;0;IS;210;155;120;230;464;50;2:27;1:40;8:00;17:50;1:07;22:20
+250172;Bronislaw Olenkowicz;Bronislaw;Olenkowicz;M;29;PL;22;Europe;0;182;100;26118;CrossFit 72D;01;Europe North;Europe North;Europe North;ACT;0;PL;--;--;--;--;--;--;2:57;1:13;--;--;--;--
+309538;Gena Malkovskiy;Gena;Malkovskiy;M;27;RU;22;Europe;0;180;98;26159;CrossFit Idol;01;Europe North;Europe North;Europe North;ACT;0;RU;--;--;--;--;--;--;--;--;--;--;--;--
+200819;Jak Cornthwaite;Jak;Cornthwaite;M;27;GB;22;Europe;0;179;92;26113;CrossFit JST;01;Europe Central;Europe Central;Europe Central;ACT;0;GB;--;--;--;--;--;--;--;--;--;--;--;--
+1059467;Lazar Đukić;Lazar;Đukić;M;22;RS;22;Europe;0;183;93;26295;CrossFit Baš-Čelik;01;Europe Central;Europe Central;Europe Central;ACT;0;RS;185;155;125;220;--;--;2:04;--;--;--;--;19:54
+86677;William Kane;William;Kane;M;31;GB;22;Europe;0;176;84.8217;26618;CrossFit WestMids;01;Europe Central;Europe Central;Europe Central;ACT;0;GB;185;140;113;210;411;58;2:16;1:43;7:57;17:17;--;20:05
+248752;P D Savage;P D;Savage;M;28;GB;22;Europe;0;185;98;26135;CrossFit 8020;01;Europe Central;Europe Central;Europe Central;ACT;0;GB;--;--;--;--;--;--;--;--;--;--;--;--
+135421;Viktor Långsved;Viktor;Långsved;M;26;SE;22;Europe;0;183;90;26187;CrossFit Prestanda;01;Europe North;Europe North;Europe North;ACT;0;SE;--;--;--;--;--;--;--;--;--;--;--;--
+472642;Uldis Upenieks;Uldis;Upenieks;M;20;LV;22;Europe;0;175;83;26153;CrossFit Riga;01;Europe North;Europe North;Europe North;ACT;0;LV;180;135;108;215;--;--;--;--;--;--;--;--
+95366;Mitchell Adams;Mitchell;Adams;M;26;GB;22;Europe;0;167;80;26189;CrossFit Wolverhampton;01;Europe Central;Europe Central;Europe Central;ACT;0;GB;205;140;113;230;--;56;2:17;1:51;7:46;--;0:59;--
+36298;Klaus Hebo Uggerhoj;Klaus Hebo;Uggerhoj;M;27;DK;22;Europe;0;176;85.72889;26155;CrossFit North 579;01;Europe North;Europe North;Europe North;ACT;0;DK;188;140;112;220;--;--;--;--;--;--;--;--
+442586;Philip Bisgaard;Philip;Bisgaard;M;22;DK;22;Europe;0;182;93;26178;CrossFit Nordvest;01;Europe North;Europe North;Europe North;ACT;0;DK;--;--;--;--;--;--;--;--;--;--;--;--
+125959;Sigurður Þrastarson;Sigurður;Þrastarson;M;34;IS;22;Europe;0;179;91;26300;CrossFit Akureyri;01;Europe North;Europe North;Europe North;ACT;0;IS;230;145;115;265;--;40;2:03;1:18;6:57;--;--;--
+27236;Arni Bjorn Kristjansson;Arni Bjorn;Kristjansson;M;30;IS;22;Europe;0;182;95.25432;26315;CrossFit XY;01;Europe North;Europe North;Europe North;ACT;0;IS;210;152;130;250;385;30;--;2:13;8:56;20:16;--;--
+286691;Joshua Wichtrup;Joshua;Wichtrup;M;26;DE;22;Europe;0;183;84;26282;CrossFit Flensburg;01;Europe Central;Europe Central;Europe Central;ACT;0;DE;200;150;120;210;--;--;2:33;--;6:44;--;1:01;--
+822789;Alex Kotoulas;Alex;Kotoulas;M;25;GR;22;Europe;0;170;78;26409;CrossFit North Zone;01;Europe Central;Europe Central;Europe Central;ACT;0;GR;180;135;110;210;--;--;--;--;--;--;--;--
+120439;Kevin Winkens;Kevin;Winkens;M;28;DE;22;Europe;0;175;83;26214;CrossFit Vitus;01;Europe Central;Europe Central;Europe Central;ACT;0;DE;185;145;111;215;--;57;2:14;--;--;17:40;--;--
+566315;Markus Schmidt;Markus;Schmidt;M;33;DE;22;Europe;0;178;92;26512;CrossFit am Rhein;01;Europe Central;Europe Central;Europe Central;ACT;0;DE;230;165;125;275;--;--;--;--;--;--;--;--
+230757;Casper Gammelmark;Casper;Gammelmark;M;27;DK;22;Europe;0;187;86;26455;Vidar CrossFit;01;Europe North;Europe North;Europe North;ACT;0;DK;--;--;--;--;--;--;--;--;--;--;--;--
+6346;Sam Stewart;Sam;Stewart;M;21;IE;22;Europe;0;163.93999;85;26143;CrossFit Ireland;01;Europe Central;Europe Central;Europe Central;ACT;0;IE;200;145;121;230;--;50;2:10;1:26;8:06;--;--;--
+2435;Alec Harwood;Alec;Harwood;M;29;GB;22;Europe;0;175;90;26154;CrossFit Bath;01;Europe Central;Europe Central;Europe Central;ACT;0;GB;202;150;125;260;--;--;--;--;--;--;--;--
+1325298;Aleksandar Ilin;Aleksandar;Ilin;M;28;RU;22;Europe;0;175;87;26159;CrossFit Idol;01;Europe North;Europe North;Europe North;ACT;0;RU;185;--;120;230;--;--;2:15;1:30;--;--;0:58;21:40
+514502;Lefteris Theofanidis;Lefteris;Theofanidis;M;28;GR;22;Europe;0;171;85;26514;Primal CrossFit ATH;01;Europe Central;Europe Central;Europe Central;ACT;0;GR;290.2989;181.4368;140.61353;--;--;--;2:11;--;--;--;--;--
+179080;Bartek Lipka;Bartek;Lipka;M;28;PL;22;Europe;0;177;83.00734;26243;CrossFit R99;01;Europe North;Europe North;Europe North;ACT;0;PL;201.84843;149.68536;117.93392;251.74356;--;45;2:43;1:36;--;--;0:57;20:30
+237641;Zack George;Zack;George;M;28;GB;22;Europe;0;185.42;102;26127;CrossFit BFG;01;Europe Central;Europe Central;Europe Central;ACT;0;GB;--;--;--;--;--;--;--;--;--;--;--;--
+432338;Arminas Balevicius;Arminas;Balevicius;M;25;IE;22;Europe;0;176;86;26546;CrossFit 82;01;Europe Central;Europe Central;Europe Central;ACT;0;IE;191;152;116;225;--;--;--;1:29;--;--;--;19:16
+290000;Dirk Wunderlich;Dirk;Wunderlich;M;24;DE;22;Europe;0;171;83;26482;CrossFit Mitte;01;Europe Central;Europe Central;Europe Central;ACT;0;DE;200;140;115;205;--;--;2:23;1:43;7:36;--;0:53;--
+483096;Giorgos Karavis;Giorgos;Karavis;M;23;GR;22;Europe;0;177;90;26138;CrossFit LB;01;Europe Central;Europe Central;Europe Central;ACT;0;GR;220;152;120;240;--;50;2:18;1:40;--;--;--;--
+39590;James St Leger;James;St Leger;M;34;GB;22;Europe;0;177;88;26364;CrossFit Avon;01;Europe Central;Europe Central;Europe Central;ACT;0;GB;195;144;122;250;--;75;2:04;1:22;--;16:21;--;--
+209758;Piotr Mielczarek;Piotr;Mielczarek;M;30;PL;22;Europe;0;184;96;26460;CrossFit DogField;01;Europe North;Europe North;Europe North;ACT;0;PL;190;160;125;220;--;--;2:25;--;--;--;--;--
+437841;Marcus Ericsson;Marcus;Ericsson;M;25;SE;22;Europe;0;186;90;26576;CrossFit Holistic;01;Europe North;Europe North;Europe North;ACT;0;SE;--;--;--;--;--;--;--;--;--;--;--;--
+458360;David Stroupek;David;Stroupek;M;23;AT;22;Europe;0;178;90;26463;Train Blue CrossFit;01;Europe Central;Europe Central;Europe Central;ACT;0;AT;195;160;125;240;--;50;--;--;--;--;--;--
+98559;Piotr Szczycinski;Piotr;Szczycinski;M;26;PL;22;Europe;0;182;88;26483;CrossFit Wroclaw;01;Europe North;Europe North;Europe North;ACT;0;PL;226.796;172.36496;136.0776;263.08337;--;59;2:39;1:13;--;--;0:59;20:08
+661731;Dimitris Fotiou;Dimitris;Fotiou;M;27;GR;22;Europe;0;168;78;26144;Mad Hall CrossFit;01;Europe Central;Europe Central;Europe Central;ACT;0;GR;--;--;--;--;--;--;--;--;--;--;--;--
+710714;Marcin Szybaj;Marcin;Szybaj;M;27;PL;22;Europe;0;178;88;26527;CrossFit Joyride;01;Europe North;Europe North;Europe North;WD;0;PL;190;135;105;200;--;60;2:42;--;--;--;--;--

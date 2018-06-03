@@ -1,0 +1,41 @@
+CompetitorId;CompetitorName;FirstName;LastName;Gender;Age;CountryCode;RegionId;RegionalName;Profession;Height_cm;Weight_kg;AffiliateId;AffiliateName;DivisionId;RegionName;RegionCode;RegionalCode;Status;TeamCaptain;CountryOfOriginCode;BackSquat_kg;CleanAndJerk_kg;Snatch_kg;DeadLift_kg;FightGoneBad;MaxPullUps;Fran;Grace;Helen;Filthy50;Sprint400m;Rn5k
+18588;Annie Thorisdottir;Annie;Thorisdottir;F;28;IS;22;Europe;0;170;68.945984;26545;Reebok CrossFit Reykjavík;02;Europe North;Europe North;Europe North;ACT;0;IS;125;108;92;170;460;80;2:37;1:20;--;15:07;107:00;--
+591912;Laura Horvath;Laura;Horvath;F;21;HU;22;Europe;0;169;69;26115;CrossFit BBros;02;Europe North;Europe North;Europe North;ACT;0;HU;--;--;--;--;--;--;--;--;--;--;--;--
+8859;Ragnheiður Sara Sigmundsdottir;Ragnheiður Sara;Sigmundsdottir;F;25;IS;22;Europe;0;171;69;26166;CrossFit Sudurnes;02;Europe North;Europe North;Europe North;ACT;0;IS;135;110;90;155;--;36;--;2:03;9:26;--;--;22:32
+120480;Kristin Holte;Kristin;Holte;F;32;NO;22;Europe;0;162;59.874146;26362;CrossFit Oslo;02;Europe North;Europe North;Europe North;ACT;0;NO;132;102;79;143;406;42;2:24;1:55;--;18:16;1:01;19:30
+2088;Camilla Salomonsson Hellman;Camilla;Salomonsson Hellman;F;27;SE;22;Europe;0;165;67.585205;26296;CrossFit Nordic;02;Europe North;Europe North;Europe North;ACT;0;SE;143;100;77;160;--;--;2:45;1:20;--;--;--;--
+764556;Gabriela Migała;Gabriela;Migała;F;19;PL;22;Europe;0;170;70;26118;CrossFit 72D;02;Europe North;Europe North;Europe North;ACT;0;PL;143;105;83;155;--;--;--;--;--;--;--;--
+698210;Karin Freyová;Karin;Freyová;F;23;SK;22;Europe;0;170;74;26106;CrossFit Pressburg;02;Europe North;Europe North;Europe North;ACT;0;SK;125;105;90;160;--;--;--;--;--;--;--;--
+19501;Thuridur Erla Helgadottir;Thuridur Erla;Helgadottir;F;26;IS;22;Europe;0;164;59;26108;CrossFit Sport;02;Europe North;Europe North;Europe North;ACT;0;IS;133;108;86;150;389;60;2:49;1:57;8:32;18:56;1:01;21:26
+18274;Bjork Odinsdottir;Bjork;Odinsdottir;F;30;IS;22;Europe;0;160;63;26300;CrossFit Akureyri;02;Europe North;Europe North;Europe North;ACT;0;IS;143;106;84;150;--;55;2:44;1:48;--;21:29;--;--
+239442;Emma McQuaid;Emma;McQuaid;F;28;GB;22;Europe;0;165;63;26185;CrossFit Berserk;02;Europe Central;Europe Central;Europe Central;ACT;0;GB;125;108;83;160;--;43;2:27;2:12;--;--;--;--
+252900;Anna Fragkou;Anna;Fragkou;F;28;GR;22;Europe;0;160;63;26507;CrossFit Kallithea;02;Europe Central;Europe Central;Europe Central;ACT;0;GR;--;--;--;--;--;--;--;--;--;--;--;--
+686626;Manon Angonese;Manon;Angonese;F;25;LU;22;Europe;0;163;66;26133;CrossFit Seven Castles;02;Europe Central;Europe Central;Europe Central;ACT;0;LU;--;--;--;--;--;--;--;--;--;--;--;--
+120359;Steph Dekker;Steph;Dekker;F;28;GB;22;Europe;0;160;100;26205;CrossFit Fortius Cambuslang;02;Europe Central;Europe Central;Europe Central;ACT;0;GB;140;93;65;165;--;30;3:00;2:29;--;--;1:07;--
+887297;Emma Tall;Emma;Tall;F;26;SE;22;Europe;0;168;69;26620;CrossFit Solid;02;Europe North;Europe North;Europe North;ACT;0;SE;--;--;--;--;--;--;--;--;--;--;--;--
+623803;Emelie Lundberg;Emelie;Lundberg;F;28;SE;22;Europe;0;161;61;26528;CrossFit Ibex;02;Europe North;Europe North;Europe North;ACT;0;SE;130;95;79;150;--;--;2:42;--;--;--;--;--
+821419;Anette Nieminen;Anette;Nieminen;F;26;FI;22;Europe;0;166;70;26392;CrossFit Varasto;02;Europe North;Europe North;Europe North;ACT;0;FI;--;--;--;--;--;--;--;--;--;--;--;--
+534813;Sanna Venäläinen;Sanna;Venäläinen;F;27;FI;22;Europe;0;164;65;26110;CrossFit Jyvaskyla;02;Europe North;Europe North;Europe North;ACT;0;FI;--;--;--;--;--;--;--;--;--;--;--;--
+107129;Kelly Friel;Kelly;Friel;F;40;GB;22;Europe;0;170;72;26408;CrossFit Southampton;02;Europe Central;Europe Central;Europe Central;ACT;0;GB;--;--;--;--;--;--;--;--;--;--;--;--
+309398;Synne Krokstad;Synne;Krokstad;F;26;NO;22;Europe;0;168;68;26305;CrossFit Sandvika;02;Europe North;Europe North;Europe North;ACT;0;NO;120;95;72;145;398;--;--;2:16;--;17:53;0:59;22:59
+109933;Aneta Tucker;Aneta;Tucker;F;34;GB;22;Europe;0;160;64;26352;CrossFit Portishead;02;Europe Central;Europe Central;Europe Central;ACT;0;GB;132;107;80;135;--;30;3:04;2:33;--;--;1:09;--
+450474;Siri Rohmesmo;Siri;Rohmesmo;F;27;BE;22;Europe;0;158;64;26137;Silvius Brabo CrossFit;02;Europe Central;Europe Central;Europe Central;ACT;0;BE;115;77;70;145;--;--;4:00;--;--;--;--;28:00
+248645;Jayne Eadie;Jayne;Eadie;F;29;GB;22;Europe;0;170;66;26113;CrossFit JST;02;Europe Central;Europe Central;Europe Central;ACT;0;GB;--;--;--;--;--;--;--;--;--;--;--;--
+284277;Laura Hughes;Laura;Hughes;F;25;GB;22;Europe;0;162.93999;72.57472;26453;CrossFit Chester;02;Europe Central;Europe Central;Europe Central;ACT;0;GB;120;95;75;150;--;--;--;--;--;--;--;--
+514514;Charlotte Spence;Charlotte;Spence;F;31;GB;22;Europe;0;154.93999;66;26536;Esprit de Corps CrossFit;02;Europe Central;Europe Central;Europe Central;ACT;0;GB;--;--;--;--;--;--;2:44;--;--;--;1:18;--
+729434;Martyna Krysiak;Martyna;Krysiak;F;28;PL;22;Europe;0;163;60;26527;CrossFit Joyride;02;Europe North;Europe North;Europe North;ACT;0;PL;--;--;--;--;--;--;--;--;--;--;--;--
+114958;Hanne Nilsen;Hanne;Nilsen;F;30;NO;22;Europe;0;170;--;26388;CrossFit Asane;02;Europe North;Europe North;Europe North;ACT;0;NO;115;97;75;160;--;--;2:34;1:57;--;--;--;--
+240072;Lisa Lettner;Lisa;Lettner;F;27;AT;22;Europe;0;162;61.68851;26158;CrossFit Innsbruck;02;Europe Central;Europe Central;Europe Central;ACT;0;AT;--;--;--;--;--;--;--;--;--;--;--;23:43
+7419;Laura Faulkner;Laura;Faulkner;F;26;GB;22;Europe;0;152;56;26154;CrossFit Bath;02;Europe Central;Europe Central;Europe Central;ACT;0;GB;120;95;73;150;--;--;--;--;--;--;--;--
+881284;Fédra Szakolczai;Fédra;Szakolczai;F;28;HU;22;Europe;0;169;75;26617;CrossFit Budapest;02;Europe North;Europe North;Europe North;ACT;0;HU;135;105;--;141;--;--;2:35;2:15;--;--;--;--
+338296;Janie Garratt;Janie;Garratt;F;25;GB;22;Europe;0;158;63;26652;IPC CrossFit;02;Europe Central;Europe Central;Europe Central;ACT;0;GB;140;90;77;142;--;--;2:48;--;--;--;--;--
+657479;Nathalie Geurts;Nathalie;Geurts;F;34;BE;22;Europe;0;160;67;26459;CrossFit Bilzen;02;Europe Central;Europe Central;Europe Central;ACT;0;BE;--;--;--;--;--;--;--;--;--;--;--;--
+709355;Maria Kurzawa;Maria;Kurzawa;F;26;PL;22;Europe;0;171;69;26480;CrossFit Genius;02;Europe North;Europe North;Europe North;ACT;0;PL;;;;;;;;;;;;
+364588;Frederikke Frandsen;Frederikke;Frandsen;F;27;DK;22;Europe;0;158;61;26191;CrossFit Koege;02;Europe North;Europe North;Europe North;ACT;0;DK;120;91;77;150;--;--;--;--;--;--;--;--
+254824;Solveig Sigurdardottir;Solveig;Sigurdardottir;F;23;IS;22;Europe;0;170;68.0388;26545;Reebok CrossFit Reykjavík;02;Europe North;Europe North;Europe North;ACT;0;IS;140;109;87;145;--;--;--;--;--;--;--;--
+444303;Aoife Burke;Aoife;Burke;F;27;GB;22;Europe;0;165;69;26610;CrossFit Shapesmiths;02;Europe Central;Europe Central;Europe Central;ACT;0;GB;--;--;--;--;--;--;--;--;--;--;--;--
+434123;Alexis Rufus;Alexis;Rufus;F;39;GB;22;Europe;0;162;63;26161;CrossFit Perpetua;02;Europe Central;Europe Central;Europe Central;ACT;0;GB;--;--;--;--;--;--;--;--;--;--;--;--
+264664;Lucy Majury;Lucy;Majury;F;29;GB;22;Europe;0;157;63;26610;CrossFit Shapesmiths;02;Europe Central;Europe Central;Europe Central;ACT;0;GB;120;88;63;145;--;30;--;--;--;--;--;--
+1004280;Matilda Spanou;Matilda;Spanou;F;24;GR;22;Europe;0;170;65;26409;CrossFit North Zone;02;Europe Central;Europe Central;Europe Central;ACT;0;GR;--;--;--;--;--;--;--;--;--;--;--;--
+257958;Kirsty Oliver;Kirsty;Oliver;F;29;GB;22;Europe;0;163;65.77084;26511;White Cliffs CrossFit;02;Europe Central;Europe Central;Europe Central;ACT;0;GB;135;103;75;140;--;--;3:08;1:47;--;--;--;--
+512258;Sarah Massoni;Sarah;Massoni;F;25;BE;22;Europe;0;165;67;26202;CrossFit 1815;02;Europe Central;Europe Central;Europe Central;WD;0;BE;--;--;--;--;--;--;--;--;--;--;--;--
