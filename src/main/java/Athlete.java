@@ -4,16 +4,15 @@
 public class Athlete {
     private String countryCode;
     private String regionId;
-    private String regionalName;
     private String profession;
     private String height;
     private String affiliateId;
     private String divisionId;
     private String regionName;
+    private String countryOfOriginName;
     private String weight;
     private String affiliateName;
     private String regionCode;
-    private String status;
     private String regionalCode;
     private String bibId;
     private String profilePicS3key;
@@ -82,6 +81,14 @@ public class Athlete {
         this.regionName = regionName;
     }
 
+    public String getCountryOfOriginName() {
+        return countryOfOriginName;
+    }
+
+    public void setCountryOfOriginName(String countryOfOriginName) {
+        this.countryOfOriginName = countryOfOriginName;
+    }
+
     public String getWeight() {
         return weight;
     }
@@ -104,14 +111,6 @@ public class Athlete {
 
     public void setRegionCode(String regionCode) {
         this.regionCode = regionCode;
-    }
-
-    public String getStatus() {
-        return status;
-    }
-
-    public void setStatus(String status) {
-        this.status = status;
     }
 
     public String getRegionalCode() {

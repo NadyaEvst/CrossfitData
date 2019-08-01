@@ -10,23 +10,14 @@ import java.util.HashMap;
  */
 public class Main {
     public static void main(String[] args) throws IOException, SAXException, ParserConfigurationException {
-        String menLBurl22 = "https://games.crossfit.com/competitions/api/v1/competitions/regionals/2018/leaderboards?division=1&regional=22&sort=0&page=1";
-        createCSVLeaderBoardbyURL(menLBurl22, "athletesMenEuropeReg.csv");
+        String menGames = "https://games.crossfit.com/competitions/api/v1/competitions/games/2019/leaderboards?division=1&sort=0&page=1";
+        createCSVLeaderBoardByURL(menGames, "athletesMenGames2019.csv");
 
-        String womenLBurl22 = "https://games.crossfit.com/competitions/api/v1/competitions/regionals/2018/leaderboards?division=2&regional=22&sort=0&page=1";
-        createCSVLeaderBoardbyURL(womenLBurl22, "athletesWomenEuropeReg.csv");
-
-        String teamsLBurl22 = "https://games.crossfit.com/competitions/api/v1/competitions/regionals/2018/leaderboards?division=11&regional=22&sort=0&page=1";
-        createCSVLeaderBoardbyURL(teamsLBurl22, "athletesTeamsEuropeReg.csv");
-
-        String menLBurl = "https://games.crossfit.com/competitions/api/v1/competitions/regionals/2018/leaderboards?division=1&regional=32&sort=0&page=1";
-        createCSVLeaderBoardbyURL(menLBurl, "athletesMenAll.csv");
-
-        String womenLBurl = "https://games.crossfit.com/competitions/api/v1/competitions/regionals/2018/leaderboards?division=2&regional=32&sort=0&page=1";
-        createCSVLeaderBoardbyURL(womenLBurl, "athletesWomenAll.csv");
+        String womenGames = "https://games.crossfit.com/competitions/api/v1/competitions/games/2019/leaderboards?division=2&sort=0&page=1";
+        createCSVLeaderBoardByURL(womenGames, "athletesWomenGames2019.csv");
     }
 
-    public static void createCSVLeaderBoardbyURL(String url, String fileName){
+    public static void createCSVLeaderBoardByURL(String url, String fileName) {
         LeaderBoard lb = new LeaderBoard();
         String result = lb.getResult(url);
         ArrayList<Athlete> athletes = lb.parseResponse(result);

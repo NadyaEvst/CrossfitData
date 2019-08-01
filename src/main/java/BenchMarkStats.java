@@ -145,6 +145,8 @@ public class BenchMarkStats {
             out = String.valueOf(Integer.parseInt(in)*lbTokg);
         } else if (in.contains("kg")){
             out = in.replace("kg","").trim();
+        } else {
+            out = in;
         }
         return out;
     }

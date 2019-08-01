@@ -66,10 +66,10 @@ public class LeaderBoard {
     public ArrayList<String> getEntrantsFromResponse(String response) {
         ArrayList<String> entrants = new ArrayList<>();
         while (response.indexOf("\"entrant\":") > -1) {
-            String entrant = response.substring(response.indexOf("\"entrant\":") + 1, response.indexOf("\"scores\":"));
-            String entrantAndScores = response.substring(response.indexOf("\"entrant\":") + 1, response.indexOf("\"cf_rank_order\"") + 15);
+            String entrant = response.substring(response.indexOf("\"entrant\":") + 1, response.indexOf("\"scores\":") + 7);
+//            String entrantAndScores = response.substring(response.indexOf("\"entrant\":") + 1, response.indexOf("\"cf_rank_order\"") + 15);
             entrants.add(entrant.replace("entrant\": ", ""));
-            response = response.replace(entrantAndScores, "");
+            response = response.replace(entrant, "");
 
         }
         return entrants;

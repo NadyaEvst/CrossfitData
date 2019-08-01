@@ -1,0 +1,145 @@
+CompetitorId;CompetitorName;FirstName;LastName;Gender;Age;CountryCode;RegionId;RegionalName;Profession;Height_cm;Weight_kg;AffiliateId;AffiliateName;DivisionId;RegionName;RegionCode;RegionalCode;TeamCaptain;CountryOfOriginCode;BackSquat_kg;CleanAndJerk_kg;Snatch_kg;DeadLift_kg;FightGoneBad;MaxPullUps;Fran;Grace;Helen;Filthy50;Sprint400m;Rn5k
+153625;Cole Sager;Cole;Sager;M;28;null;0;null;0;164.93999;91.62559;44588;CrossFit Spokane Valley;01;;;;0;US;215.4562;156.48924;124.7378;229.06396;522;68;2:05;1:10;7:14;13:15;0:54;--
+199938;Jacob Heppner;Jacob;Heppner;M;29;null;0;null;0;162.93999;87.08966;44590;Cobra Command CrossFit;01;;;;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+74320;Samuel Kwant;Samuel;Kwant;M;23;null;0;null;0;165.93999;90.7184;null;null;01;;;;0;US;201.84843;156.48924;129.27373;229.06396;--;74;2:04;1:47;--;--;--;18:05
+28040;Eric Carmody;Eric;Carmody;M;31;null;0;null;0;165.93999;90.7184;44591;CrossFit Invictus;01;;;;0;US;226.796;161.02516;129.72731;242.67172;484;50;2:20;1:20;7:31;15:30;--;18:08
+106655;Simon Mäntylä;Simon;Mäntylä;M;28;null;0;null;0;165.93999;94.80073;44592;CrossFit Riders;01;;;;0;SE;220;160;130;265;--;--;1:57;--;--;--;--;--
+230757;Casper Gammelmark;Casper;Gammelmark;M;28;null;0;null;0;185.42;86.18248;44593;CrossFit Skodsborg;01;;;;0;DK;--;--;--;--;--;--;--;--;--;--;--;--
+469656;Jeffrey Adler;Jeffrey;Adler;M;25;null;0;null;0;163.93999;89.35763;44595;CrossFit Wonderland;01;;;;0;CA;210.92029;165.56108;127.00576;238.1358;511;50;2:08;1:34;7:43;16:38;0:59;19:50
+247005;Streat Hoerner;Streat;Hoerner;M;24;null;0;null;0;163.93999;88.45044;44596;CrossFit Alioth;01;;;;0;US;206.38435;156.48924;124.7378;238.1358;--;--;--;--;--;--;--;--
+1690;Travis Mayer;Travis;Mayer;M;28;null;0;null;0;165.93999;89.81122;44599;CrossFit Passion;01;;;;0;US;215.4562;158.7572;130.18091;256.27948;447;85;2:08;1:18;6:34;13:39;0:54;18:03
+327636;Samuel Cournoyer;Samuel;Cournoyer;M;23;null;0;null;0;165.93999;88.45044;44600;Deka CrossFit;01;;;;0;CA;195.04456;167.82904;131.54169;240.40376;--;--;2:05;1:30;--;--;--;--
+180541;Alex Vigneault;Alex;Vigneault;M;27;null;0;null;0;165.93999;94.34714;44602;CrossFit Quebec City;01;;;;0;CA;210.92029;163.29312;136.0776;272.1552;457;72;2:14;1:11;7:12;14:54;--;19:30
+571999;Richard Paul Castillo;Richard Paul;Castillo;M;29;null;0;null;0;165.93999;90.7184;44605;Glass City CrossFit;01;;;;0;US;201.84843;151.95332;124.7378;226.796;--;--;2:18;1:12;7:48;--;1:06;21:00
+329279;George Sterner;George;Sterner;M;20;null;0;null;0;163.93999;83.91452;44606;BrewCity CrossFit;01;;;;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+755342;Zachery Buntin;Zachery;Buntin;M;25;null;0;null;0;185.42;92.98636;44603;CrossFit T-Town;01;;;;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+351417;Alexander Anasagasti;Alexander;Anasagasti;M;27;null;0;null;0;163.93999;73.93549;44610;CrossFit Zurriola;01;;;;0;ES;--;--;--;--;--;--;--;--;--;--;--;--
+478414;Agustin Richelme;Agustin;Richelme;M;22;null;0;null;0;162.93999;79.83219;null;null;01;;;;0;AR;180;140;113;200;--;79;1:58;--;--;--;--;--
+286311;Marlon Azurdia;Marlon;Azurdia;M;33;null;0;null;0;163.93999;87.99685;null;null;01;;;;0;GT;201.84843;159.66438;127.00576;247.20764;--;75;2:13;1:16;--;--;1:01;--
+256607;Eusebio Aldano;Eusebio;Aldano;M;34;null;0;null;0;164.93999;92.53277;44614;CrossFit Steel Factory;01;;;;0;DO;188.24068;158.7572;129.27373;229.06396;--;60;2:10;1:20;--;--;1:20;22:52
+308712;Jean-Simon Roy-Lemaire;Jean-Simon;Roy-Lemaire;M;25;null;0;null;0;163.93999;88.45044;44617;Tonic CrossFit;01;;;;0;CA;--;--;--;--;--;--;--;--;--;--;--;--
+639107;Hussain Saeedi;Hussain;Saeedi;M;29;null;0;null;0;164.93999;83.91452;44618;966 CrossFit Al-Nahda;01;;;;0;SA;--;--;--;--;--;--;--;--;--;--;--;--
+1178252;Piero Gorichon;Piero;Gorichon;M;27;null;0;null;0;185.42;89.81122;null;null;01;;;;0;CL;200;135;105;210;--;50;2:30;1:59;--;--;1:05;--
+179080;Bartek Lipka;Bartek;Lipka;M;29;null;0;null;0;164.93999;83.00734;44621;CrossFit R99;01;;;;0;PL;222.26009;154.22128;117.93392;288.0309;--;82;2:04;1:36;--;--;0:57;19:00
+227027;Mattheaus Otero;Mattheaus;Otero;M;28;null;0;null;0;161.93999;80.73938;44620;Igone CrossFit;01;;;;0;TT;183.70476;142.88148;120.20188;231.33192;--;--;2:55;--;--;--;--;--
+23655;Ant Haynes;Ant;Haynes;M;29;null;0;null;0;164.93999;87.99685;44626;CrossFit CFPT;01;;;;0;CN;--;--;--;--;--;--;--;--;--;--;--;--
+683220;Diego Kemper;Diego;Kemper;M;28;null;0;null;0;185.42;87.99685;44627;BIGG CrossFit Herrera;01;;;;0;PY;170;140;110;220;--;--;2:39;1:48;--;--;--;19:45
+1523179;Vernon Neal;Vernon;Neal;M;30;null;0;null;0;162.93999;77.11064;44628;CrossFit Subterranean;01;;;;0;BZ;224.52805;149.68536;122.46984;238.1358;462;60;2:23;1:41;7:13;19:00;--;20:10
+907105;Sebastian Rodriguez;Sebastian;Rodriguez;M;22;null;0;null;0;161.93999;79.83219;null;null;01;;;;0;EC;;;;;;;;;;;;
+153604;Mathew Fraser;Mathew;Fraser;M;29;null;0;null;0;161.93999;88.45044;44632;CrossFit Mayhem;01;;;;0;US;219.99213;170.097;142.88148;226.796;--;50;2:07;1:18;--;--;--;--
+191624;Alvaro Lopez;Alvaro;Lopez;M;33;null;0;null;0;8.54;83.91452;44633;Reebok CrossFit PTY;01;;;;0;PA;192.7766;151.95332;115.66596;233.59988;--;65;2:01;1:39;--;--;--;--
+270266;Omar Martinez;Omar;Martinez;M;27;null;0;null;0;3.54;76.20345;44636;CrossFit 4 L;01;;;;0;VE;--;--;--;--;--;--;--;--;--;--;--;--
+315266;Amin Attallah;Amin;Attallah;M;25;null;0;null;0;161.93999;79.83219;44638;CrossFit 962;01;;;;0;JO;170.097;142.88148;115.66596;192.7766;--;60;2:33;--;--;--;--;--
+235246;Khalid Alhamadi;Khalid;Alhamadi;M;30;null;0;null;0;163.93999;81.19297;null;null;01;;;;0;QA;163;125;105;--;--;44;3:30;2:40;8:40;--;1:03;26:00
+470906;Oleksandr Shkoliarenko;Oleksandr;Shkoliarenko;M;29;null;0;null;0;185.42;88.90403;44643;CrossFit Sea Energy;01;;;;0;UA;190;160;120;240;--;55;2:18;--;--;--;0:49;--
+199533;J. Rodrigo Agreda;J. Rodrigo;Agreda;M;26;null;0;null;0;163.93999;86.18248;44645;Hudson River CrossFit (departed);01;;;;0;BO;206.38435;149.68536;108.86208;224.52805;439;69;2:00;1:18;7:08;15:23;0:58;20:57
+1721;Jeremy Mghenyi;Jeremy;Mghenyi;M;28;null;0;null;0;162.93999;86.18248;44647;CrossFit Progression;01;;;;0;KE;226.796;170.097;139.70633;229.51755;--;--;--;--;--;--;--;--
+555634;Kobe Khy;Kobe;Khy;M;31;null;0;null;0;161.93999;72.12113;44649;CrossFit Yiqi;01;;;;0;KH;144;110;90;180;--;25;4:42;4:21;9:13;--;1:13;21:30
+1129621;Mahendra Arditirta;Mahendra;Arditirta;M;29;null;0;null;0;162.93999;69.853165;44650;CrossFit 6221;01;;;;0;ID;--;--;--;--;--;--;--;--;--;--;--;--
+848265;Chaker Alouni;Chaker;Alouni;M;30;null;0;null;0;165.93999;86.18248;44651;CrossFit TANKA;01;;;;0;DZ;195;110;95;215;--;--;--;--;--;--;--;--
+677889;Alban Dubois;Alban;Dubois;M;24;null;0;null;0;163.93999;86.18248;44655;CrossFit Albi;01;;;;0;BE;134.71683;94.80073;76.65705;171.91136;--;26;--;--;--;--;1:07;20:05
+511473;Gábor Török;Gábor;Török;M;28;null;0;null;0;162.93999;84.8217;null;null;01;;;;0;HU;--;--;--;--;--;--;--;--;--;--;--;--
+286691;Joshua Wichtrup;Joshua;Wichtrup;M;27;null;0;null;0;185.42;86.18248;44658;CrossFit Flensburg;01;;;;0;DE;200;150;120;210;--;--;2:33;--;6:44;--;1:01;--
+119313;Erik Toth;Erik;Toth;M;29;null;0;null;0;164.93999;83.91452;44659;CrossFit BBros;01;;;;0;SK;204.1164;142.88148;111.13004;204.1164;--;50;2:09;1:30;--;14:51;1:01;19:43
+86089;Elliot Simmonds;Elliot;Simmonds;M;25;null;0;null;0;186.42;89.81122;44663;CrossFit Yas;01;;;;0;GB;183.70476;142.88148;120.20188;219.99213;--;--;--;--;--;--;--;--
+1692338;Uyi Nosa Osawe;Uyi Nosa;Osawe;M;29;null;0;null;0;185.42;87.08966;null;null;01;;;;0;NG;--;--;--;--;--;--;--;--;--;--;--;--
+458360;David Stroupek;David;Stroupek;M;24;null;0;null;0;164.93999;89.81122;44666;CrossFit With Us;01;;;;0;CZ;195;160;125;240;--;50;--;--;--;--;--;--
+432338;Arminas Balevicius;Arminas;Balevicius;M;26;null;0;null;0;163.93999;87.08966;44669;CrossFit 82;01;;;;0;LT;191;152;116;225;--;--;--;1:27;--;--;--;19:16
+25613;Edmund Tan;Edmund;Tan;M;33;null;0;null;0;161.93999;69.853165;null;null;01;;;;0;MY;180;135;115;195;--;80;2:49;4:28;9:07;25:26;1:01;26:33
+221436;Luke Fiso;Luke;Fiso;M;29;null;0;null;0;163.93999;87.99685;44672;Thorndon CrossFit;01;;;;0;NZ;220;156;132;250;--;80;1:58;1:20;7:03;--;0:45;19:55
+275390;Christoph Koerner;Christoph;Koerner;M;31;null;0;null;0;165.93999;89.81122;44673;Triller CrossFit;01;;;;0;AT;--;--;--;--;--;--;--;--;--;--;--;--
+461734;Michael Smith;Michael;Smith;M;27;null;0;null;0;185.42;95.25432;44676;CrossFit 8020;01;;;;0;IE;190;155;122;240;--;71;2:11;1:21;--;--;--;--
+253911;Vedharth Thappa;Vedharth;Thappa;M;25;null;0;null;0;163.93999;84.8217;44680;CrossFit 7 Seas;01;;;;0;IN;180;145;118;235;--;--;--;--;--;--;--;--
+1402559;Marco Almeida;Marco;Almeida;M;30;null;0;null;0;186.42;96.16151;44681;Ultimate Burn CrossFit;01;;;;0;AO;81.64656;126;47.62716;104.326164;--;33;--;2:42;--;--;--;--
+213806;Severin Irimia;Severin;Irimia;M;31;null;0;null;0;185.42;87.99685;null;null;01;;;;0;RO;165;142;123;215;--;51;2:36;2:05;--;--;--;21:04
+457993;Bilal Tariq;Bilal;Tariq;M;31;null;0;null;0;160.93999;66.224434;44683;CrossFit BNB;01;;;;0;PK;158;115;87;190;--;42;3:00;2:50;21:00;--;1:15;21:00
+658408;Stavri Stavrev;Stavri;Stavrev;M;27;null;0;null;0;161.93999;73.02831;44684;CrossFit Worlds End;01;;;;0;BG;180;125;95;195;--;60;2:16;--;--;--;1:06;20:52
+733576;Mihkel Keldoja;Mihkel;Keldoja;M;24;null;0;null;0;165.93999;83.00734;44685;CrossFit Tartu;01;;;;0;EE;160;118;90;185;368;--;3:03;--;--;--;0:56;--
+327773;Yuval Regev;Yuval;Regev;M;31;null;0;null;0;163.93999;72.12113;44687;CrossFit Florentin;01;;;;0;IL;--;--;--;--;--;--;--;--;--;--;--;--
+702092;Willy Georges;Willy;Georges;M;26;null;0;null;0;164.93999;86.18248;44688;CrossFit Lutece;01;;;;0;FR;--;--;--;--;--;--;--;--;--;--;--;--
+472642;Uldis Upenieks;Uldis;Upenieks;M;21;null;0;null;0;163.93999;83.91452;44689;CrossFit Riga;01;;;;0;LV;200;145;117;250;--;--;--;--;--;--;--;--
+667464;Đorđe Đurić;Đorđe;Đurić;M;24;null;0;null;0;187.42;87.08966;44690;Tantum CrossFit;01;;;;0;BA;166;145;117;200;--;60;2:30;1:52;--;--;--;--
+574502;Heskeith Flavien;Heskeith;Flavien;M;38;null;0;null;0;161.93999;81.64656;44691;CrossFit 414;01;;;;0;LC;--;--;--;--;--;--;--;--;--;--;--;--
+683301;Rodrigo Beltrán;Rodrigo;Beltrán;M;31;null;0;null;0;187.42;83.91452;44693;RD CrossFit;01;;;;0;SV;--;86.18248;68.0388;--;--;30;--;--;--;--;--;24:33
+160128;Connor Nellans;Connor;Nellans;M;25;null;0;null;0;185.42;95.25432;44591;CrossFit Invictus;01;;;;0;LU;--;--;--;--;--;--;--;--;--;--;--;--
+849478;Shingo Moromasa;Shingo;Moromasa;M;32;null;0;null;0;7.54;83.91452;44696;BeeGrow CrossFit;01;;;;0;JP;--;--;--;--;--;--;--;--;--;--;--;--
+915210;Jovaldo Miranda;Jovaldo;Miranda;M;30;null;0;null;0;160.93999;81.19297;44698;PUL CrossFit;01;;;;0;PE;--;--;--;--;--;--;--;--;--;--;--;--
+703126;Khalid Aljarallah;Khalid;Aljarallah;M;32;null;0;null;0;163.93999;87.99685;44699;Circuit Plus CrossFit Shuwaikh;01;;;;0;KW;--;--;--;--;--;--;--;--;--;--;--;--
+123764;Logan Collins;Logan;Collins;M;28;null;0;null;0;161.93999;82.55374;44700;CrossFit Rejoice;01;;;;0;US;206.38435;154.22128;124.7378;242.67172;--;90;2:02;1:05;--;--;--;18:00
+542883;Nicolay Billaudel;Nicolay;Billaudel;M;29;null;0;null;0;185.42;92.07918;44702;CrossFit Sandvika;01;;;;0;NO;201;152;122;219;--;70;2:29;1:29;7:18;--;--;17:41
+544958;Stefano Migliorini;Stefano;Migliorini;M;30;null;0;null;0;162.93999;82.10015;44704;Reebok CrossFit Officine;01;;;;0;IT;230;150;120;250;--;--;2:06;--;--;--;1:00;20:00
+1306552;Sami Salampur;Sami;Salampur;M;30;null;0;null;0;163.93999;69.853165;44705;CrossFit Malmö;01;;;;0;AF;--;--;--;--;--;--;--;--;--;--;--;--
+32083;Karim El Hlimi;Karim;El Hlimi;M;33;null;0;null;0;162.93999;83.91452;44707;CrossFit The Flying V;01;;;;0;MA;--;--;--;--;--;--;--;--;--;--;--;--
+34025;Payam Saljoughian;Payam;Saljoughian;M;32;null;0;null;0;163.93999;79.3786;44640;Diablo CrossFit;01;;;;0;IR;147.4174;111.13004;97.52228;192.7766;347;41;2:39;2:29;7:31;19:28;--;17:19
+839047;Keith Nhan;Keith;Nhan;M;31;null;0;null;0;158.93999;63.50288;44711;AllSport CrossFit;01;;;;0;VN;115.66596;95.25432;72.57472;133.80965;--;35;--;--;--;--;--;--
+595818;Dillon Mahadeo;Dillon;Mahadeo;M;23;null;0;null;0;187.42;90.7184;44709;CrossFit 592;01;;;;0;GY;;;;;;;;;;;;
+844066;Marzougui Mootez;Marzougui;Mootez;M;28;null;0;null;0;162.93999;76.20345;null;null;01;;;;0;TN;--;--;--;--;--;--;--;--;--;--;--;--
+425160;Ian Wee;Ian;Wee;M;24;null;0;null;0;159.93999;70.76035;44712;CrossFit Mobilus;01;;;;0;SG;--;--;--;--;--;--;--;--;--;--;--;--
+514502;Lefteris Theofanidis;Lefteris;Theofanidis;M;29;null;0;null;0;161.93999;81.19297;44713;CrossFit North Zone;01;;;;0;GR;290.2989;181.4368;140.61353;--;--;--;2:11;--;--;--;--;--
+296529;Achilleas Pantazis;Achilleas;Pantazis;M;28;null;0;null;0;163.93999;90.7184;44668;CrossFit Limassol;01;;;;0;CY;--;--;--;--;--;--;--;--;--;--;--;--
+675164;Nikita Yundov;Nikita;Yundov;M;26;null;0;null;0;164.93999;92.07918;44715;CrossFit Kaban (departed);01;;;;0;BY;--;--;--;--;--;--;--;--;--;--;--;--
+423302;Sam Lubben;Sam;Lubben;M;22;null;0;null;0;185.42;91.17199;44719;CrossFit Finestrat;01;;;;0;NL;215;165;137;233;--;--;2:10;1:07;--;--;--;--
+297397;Majid Al Sharaf;Majid;Al Sharaf;M;28;null;0;null;0;161.93999;81.19297;44695;CrossFit Delmon;01;;;;0;BH;--;--;--;--;--;--;--;--;--;--;--;--
+464588;Enric Closa;Enric;Closa;M;32;null;0;null;0;161.93999;86.18248;44721;La Borda CrossFit;01;;;;0;AD;--;--;--;--;--;--;--;--;--;--;--;--
+326958;Santiago Comba;Santiago;Comba;M;25;null;0;null;0;162.93999;82.10015;44722;Instinto CrossFit;01;;;;0;UY;210;153;120;240;--;--;--;--;--;--;--;--
+337194;Bayden Brown;Bayden;Brown;M;24;null;0;null;0;164.93999;89.81122;44723;CrossFit Townsville;01;;;;0;AU;--;--;--;--;--;--;--;--;--;--;--;--
+173837;Jonne Koski;Jonne;Koski;M;24;null;0;null;0;161.93999;84.8217;44725;CrossFit Kreis 9;01;;;;0;FI;--;--;--;--;--;--;--;--;--;--;--;--
+921544;Edem Ahiaku;Edem;Ahiaku;M;28;null;0;null;0;163.93999;83.91452;44726;CrossFit Leeds;01;;;;0;GH;160;--;--;205;--;--;--;--;--;--;--;--
+1076087;Hamzeh Tarefi;Hamzeh;Tarefi;M;24;null;0;null;0;162.93999;87.08966;44729;CrossFit Ramallah;01;;;;0;PS;185;135;107;230;--;--;--;--;--;--;--;--
+96918;Andy Andrews;Andy;Andrews;M;30;null;0;null;0;160.93999;73.4819;44728;CrossFit Ceylon;01;;;;0;LK;158;120;90;201;324;52;2:59;2:32;--;--;1:10;20:44
+1325298;Aleksandar Ilin;Aleksandar;Ilin;M;29;null;0;null;0;163.93999;87.08966;44732;CrossFit Idol;01;;;;0;RU;185;--;120;230;--;--;2:15;1:30;--;--;0:58;21:40
+722854;Robert Berisha;Robert;Berisha;M;32;null;0;null;0;161.93999;79.83219;44733;CrossFit HelvetiX;01;;;;0;XK;--;--;--;--;--;--;2:18;--;--;--;--;--
+468290;Bryan Hernández;Bryan;Hernández;M;21;null;0;null;0;160.93999;74.84268;44734;CrossFit Canarias;01;;;;0;CO;155;135;117;185;--;--;2:29;--;--;--;1:03;--
+858387;Augustin Vilicnik;Augustin;Vilicnik;M;29;null;0;null;0;165.93999;91.17199;null;null;01;;;;0;HR;--;--;--;--;--;--;--;--;--;--;--;--
+851037;Pack Santos;Pack;Santos;M;29;null;0;null;0;163.93999;72.12113;null;null;01;;;;0;MZ;120;80;--;160;--;--;--;--;--;--;--;--
+34796;Scott Panchik;Scott;Panchik;M;31;null;0;null;0;163.93999;84.8217;44597;CrossFit Mentality;01;;;;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+105253;Jean-Claude Jardim;Jean-Claude;Jardim;M;27;null;0;null;0;164.93999;86.18248;44736;CrossFit Dignus;01;;;;0;ZW;190;145;107;245;498;68;2:19;--;--;--;--;19:00
+1382942;Aslam Al Shukaili;Aslam;Al Shukaili;M;27;null;0;null;0;164.93999;91.17199;44738;CrossFit Tempo;01;;;;0;OM;--;--;--;--;--;--;--;--;--;--;--;--
+278578;JiMoo Son;JiMoo;Son;M;28;null;0;null;0;161.93999;78.92501;44739;CrossFit Limelight;01;;;;0;KR;210.92029;142.88148;117.93392;242.67172;--;63;2:19;1:36;--;--;--;--
+8690;Dean Linder-Leighton;Dean;Linder-Leighton;M;28;null;0;null;0;162.93999;87.08966;44741;CrossFit Lionmode;01;;;;0;AU;200;155;135;250;520;75;2:12;1:28;--;--;0:55;19:30
+9839;Andre Alipate;Andre;Alipate;M;36;null;0;null;0;164.93999;81.19297;44743;CrossFit 3216;01;;;;0;TO;--;--;--;--;--;--;--;--;--;--;--;--
+842919;Aleks Koštomaj;Aleks;Koštomaj;M;26;null;0;null;0;165.93999;86.18248;44747;Reebok CrossFit Ljubljana;01;;;;0;SI;--;--;--;--;--;--;--;--;--;--;--;--
+1523543;Mody Traore;Mody;Traore;M;39;null;0;null;0;162.93999;76.20345;44750;Casa CrossFit Anfa;01;;;;0;SN;--;--;--;--;--;--;--;--;--;--;--;--
+781908;William Sanchez;William;Sanchez;M;28;null;0;null;0;161.93999;83.00734;44751;Training PIT CrossFit;01;;;;0;CR;188.24068;138.34557;109.769264;188.24068;374;--;3:55;3:00;8:22;--;--;--
+686308;Guilherme Malheiros;Guilherme;Malheiros;M;19;null;0;null;0;163.93999;87.08966;44660;CrossFit Al Ain;01;;;;0;BR;195;150;115;180;--;43;2:26;2:26;--;--;1:08;--
+501728;Jason Carroll;Jason;Carroll;M;30;null;0;null;0;164.93999;83.91452;44752;LumberYard CrossFit;01;;;;0;US;199.58047;145.14944;114.30518;251.74356;--;--;--;--;--;--;--;--
+81616;Björgvin Karl Guðmundsson;Björgvin Karl;Guðmundsson;M;26;null;0;null;0;164.93999;83.91452;44753;CrossFit Hengill;01;;;;0;IS;201.84843;151.95332;129.72731;235.86784;--;65;2:23;2:00;--;--;--;19:20
+644351;Daryl Borg;Daryl;Borg;M;32;null;0;null;0;161.93999;79.83219;null;null;01;;;;0;MT;140;105;80;180;--;--;3:30;--;--;--;--;--
+487949;Mohamed Elomda;Mohamed;Elomda;M;31;null;0;null;0;165.93999;92.07918;44623;CrossFit MetaliZe;01;;;;0;EG;174.63292;140.61353;111.13004;249.4756;--;62;2:31;1:15;--;--;--;17:13
+231921;Ates Boran;Ates;Boran;M;33;null;0;null;0;162.93999;76.65705;44755;CrossFit Boran;01;;;;0;TR;190;140;115;215;--;79;2:14;1:38;7:34;--;--;--
+24309;Lukas Högberg;Lukas;Högberg;M;28;null;0;null;0;185.42;95.70792;44756;CrossFit Nordic;01;;;;0;SE;205;160;130;243;--;--;--;--;--;--;--;--
+54259;Mustafa El-Lari;Mustafa;El-Lari;M;29;null;0;null;0;164.93999;83.91452;44757;CrossFit AKA;01;;;;0;IQ;--;--;--;--;--;--;--;--;--;--;--;--
+155471;Darwin Perez;Darwin;Perez;M;30;null;0;null;0;161.93999;81.64656;44758;CrossFit 3 Sons;01;;;;0;MX;238.1358;165.56108;136.0776;251.74356;--;--;--;--;--;--;--;--
+1697328;Mahmood Shalan;Mahmood;Shalan;M;26;null;0;null;0;163.93999;87.99685;44596;CrossFit Alioth;01;;;;0;AE;188.24068;149.68536;117.93392;238.1358;--;--;2:11;--;--;--;--;--
+434258;Justin Hernandez;Justin;Hernandez;M;25;null;0;null;0;163.93999;83.91452;44742;Avant Garde CrossFit;01;;;;0;PH;201.84843;149.68536;120.20188;229.06396;--;--;2:14;--;--;--;--;--
+352604;Richy Jordan;Richy;Jordan;M;30;null;0;null;0;164.93999;86.18248;44760;CrossFit Hammersmith;01;;;;0;BB;180;145;110;220;--;--;--;--;--;--;--;--
+345700;Franky Wood;Franky;Wood;M;31;null;0;null;0;160.93999;77.11064;null;null;01;;;;0;HN;215.4562;147.4174;125.64498;260.8154;--;75;2:17;--;--;--;--;20:05
+1122311;Arturocesar Mora;Arturocesar;Mora;M;21;null;0;null;0;162.93999;83.91452;44761;CrossFit FE;01;;;;0;NI;161.02516;124.7378;97.52228;188.24068;--;30;3:20;2:34;--;23:30;--;--
+698182;Adrian Mundwiler;Adrian;Mundwiler;M;26;null;0;null;0;162.93999;84.8217;null;null;01;;;;0;CH;220;160;140;240;--;--;--;--;--;--;--;--
+233855;João Ferreira;João;Ferreira;M;24;null;0;null;0;161.93999;83.91452;44765;CrossFit OPO;01;;;;0;PT;180;145;120;221;456;--;2:14;1:24;--;--;--;--
+120333;Jason Smith;Jason;Smith;M;35;null;0;null;0;186.42;88.45044;44766;CrossFit Kyalami;01;;;;0;ZA;204.1164;156.48924;133.80965;249.4756;436;45;2:29;1:20;--;21:33;1:05;19:30
+523439;Moustafa Awada;Moustafa;Awada;M;29;null;0;null;0;163.93999;79.83219;44736;CrossFit Dignus;01;;;;0;LB;--;--;--;--;--;--;--;--;--;--;--;--
+1223806;Katlego Kgwadi;Katlego;Kgwadi;M;31;null;0;null;0;161.93999;66.224434;44749;CrossFit Gaborone;01;;;;0;BW;--;--;--;--;--;--;--;--;--;--;--;--
+18543;Frederik Aegidius;Frederik;Aegidius;M;32;null;0;null;0;163.93999;83.91452;44767;CrossFit Reykjavík;01;;;;0;DK;210;155;120;230;464;50;2:27;1:40;8:00;17:50;1:07;22:20
+495051;Sion Brinn;Sion;Brinn;M;46;null;0;null;0;187.42;85.72889;44768;Be CrossFit;01;;;;0;JM;--;--;--;--;--;--;--;--;--;--;--;--
+916290;David Morley;David;Morley;M;28;null;0;null;0;186.42;88.45044;null;null;01;;;;0;BS;192.7766;138.34557;113.398;249.4756;--;40;--;--;--;--;1:10;--
+158264;Patrick Vellner;Patrick;Vellner;M;29;null;0;null;0;165.93999;88.45044;44773;CrossFit Solid Ground;01;;;;0;CA;206.38435;161.02516;129.27373;269.88724;389;64;2:14;1:17;9:46;20:16;1:06;18:50
+20698;Tim Paulson;Tim;Paulson;M;29;null;0;null;0;186.42;97.52228;44774;CrossFit Pallas;01;;;;0;US;210.92029;165.56108;136.0776;240.40376;508;68;2:15;1:15;6:58;--;1:01;20:48
+134617;Sean Sweeney;Sean;Sweeney;M;27;null;0;null;0;163.93999;87.08966;44789;CrossFit Powerstroke;01;;;;0;US;201.84843;156.48924;127.00576;256.27948;--;--;2:19;1:28;6:38;--;--;--
+107101;Brent Fikowski;Brent;Fikowski;M;28;null;0;null;0;187.42;98.42947;44790;Kelowna CrossFit;01;;;;0;CA;--;--;136.0776;--;--;--;--;--;7:08;--;--;--
+16080;James Newbury;James;Newbury;M;28;null;0;null;0;164.93999;87.08966;44792;CrossFit Mode;01;;;;0;AU;200;145;120;242;369;85;2:08;1:26;6:59;--;0:53;18:44
+250172;Bronislaw Olenkowicz;Bronislaw;Olenkowicz;M;30;null;0;null;0;185.42;98.88306;null;null;01;;;;0;PL;200;170;142;222;--;60;2:11;1:09;--;--;--;23:00
+2766;Lukas Esslinger;Lukas;Esslinger;M;26;null;0;null;0;165.93999;90.7184;44725;CrossFit Kreis 9;01;;;;0;CH;210.92029;163.29312;131.54169;265.35132;--;--;--;--;--;--;--;--
+244353;John-Paul Hethcock;John-Paul;Hethcock;M;26;null;0;null;0;164.93999;87.08966;44794;Shockoe Bottom CrossFit;01;;;;0;US;199.58047;156.48924;129.27373;226.796;--;25;2:12;--;--;--;--;--
+2725;Noah Ohlsen;Noah;Ohlsen;M;28;null;0;null;0;161.93999;86.18248;44800;Peak 360 CrossFit;01;;;;0;US;201.84843;161.02516;130.63449;229.06396;421;72;1:58;1:16;--;19:05;0:59;19:50
+35627;Will Moorad;Will;Moorad;M;30;null;0;null;0;163.93999;86.18248;44802;CrossFit Trivium;01;;;;0;US;208.65233;161.02516;140.61353;238.1358;--;--;2:12;--;--;--;--;--
+469626;Chandler Smith;Chandler;Smith;M;26;null;0;null;0;162.93999;87.54326;44804;CrossFit Sacrifice;01;;;;0;US;217.72417;156.48924;136.0776;278.95908;--;61;2:03;1:40;7:15;--;--;18:33
+660204;Matt Mcleod;Matt;Mcleod;M;26;null;0;null;0;160.93999;82.10015;44805;CrossFit Crossaxed;01;;;;0;AU;186;140;111;220;--;72;1:56;1:20;6:54;--;--;--
+196667;Hunter McIntyre;Hunter;McIntyre;M;30;null;0;null;0;187.42;92.98636;44942;Precision CrossFit;01;;;;0;US;--;--;--;--;--;--;--;--;--;--;--;--
+8325;Nick Bloch;Nick;Bloch;M;33;null;0;null;0;185.42;95.25432;44948;CrossFit Fond du Lac;01;;;;0;US;247.20764;165.56108;142.88148;281.22705;--;50;2:20;1:59;6:58;17:23;1:00;17:30
+682551;Ryan Sowder;Ryan;Sowder;M;25;null;0;null;0;162.93999;86.18248;44782;Ft. Wright CrossFit;01;;;;0;US;215.4562;147.4174;115.66596;263.99054;--;50;2:13;--;--;--;--;--
+310970;Saxon Panchik;Saxon;Panchik;M;23;null;0;null;0;163.93999;83.91452;44969;CrossFit Cliffside;01;;;;0;US;208.65233;158.7572;131.54169;215.4562;--;62;2:17;1:33;7:18;--;0:52;19:12
+93473;Josh Miller;Josh;Miller;M;30;null;0;null;0;163.93999;86.18248;44971;CrossFit Crash;01;;;;0;US;176.90088;147.4174;117.93392;--;--;64;2:06;1:39;6:53;--;--;19:00
+1095623;Kila Kilaverave;Kila;Kilaverave;M;38;null;0;null;0;161.93999;69.853165;44975;CrossFit Port Moresby;01;;;;0;PG;115;75;55;130;--;--;--;--;--;--;--;--
+111592;Connor Duddy;Connor;Duddy;M;26;null;0;null;0;164.93999;83.91452;44977;Solidarity CrossFit;01;;;;0;US;195.04456;151.95332;127.00576;226.796;--;--;--;--;--;--;--;--
+43761;Ben Smith;Ben;Smith;M;29;null;0;null;0;165.93999;88.45044;44795;CrossFit Krypton;01;;;;0;US;217.72417;151.95332;136.0776;244.93968;520;76;2:25;1:51;7:19;16:17;0:58;20:20

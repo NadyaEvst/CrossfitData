@@ -65,8 +65,6 @@ public class CSVFile {
             tittles.append(CSV_SEPARATOR);
             tittles.append("RegionalCode");
             tittles.append(CSV_SEPARATOR);
-            tittles.append("Status");
-            tittles.append(CSV_SEPARATOR);
             tittles.append("TeamCaptain");
             tittles.append(CSV_SEPARATOR);
             tittles.append("CountryOfOriginCode");
@@ -136,8 +134,6 @@ public class CSVFile {
                 oneLine.append(athlete.getRegionCode());
                 oneLine.append(CSV_SEPARATOR);
                 oneLine.append(athlete.getRegionalCode());
-                oneLine.append(CSV_SEPARATOR);
-                oneLine.append(athlete.getStatus());
                 oneLine.append(CSV_SEPARATOR);
                 oneLine.append(athlete.getTeamCaptain());
                 oneLine.append(CSV_SEPARATOR);
